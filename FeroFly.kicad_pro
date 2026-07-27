@@ -534,7 +534,7 @@
         "line_style": 0,
         "name": "+3V3",
         "pcb_color": "rgb(255, 153, 0)",
-        "priority": 3,
+        "priority": 4,
         "schematic_color": "rgb(255, 153, 0)",
         "tuning_profile": "",
         "wire_width": 10
@@ -542,9 +542,19 @@
       {
         "bus_width": 12,
         "line_style": 0,
+        "name": "CAN",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgb(218, 82, 255)",
+        "tuning_profile": "",
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "line_style": 0,
         "name": "GND",
         "pcb_color": "rgb(132, 132, 132)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgb(132, 132, 132)",
         "tuning_profile": "",
         "wire_width": 10
@@ -554,7 +564,7 @@
         "line_style": 0,
         "name": "PWR",
         "pcb_color": "rgb(255, 23, 56)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgb(255, 23, 56)",
         "tuning_profile": "",
         "wire_width": 12
@@ -564,7 +574,7 @@
         "line_style": 0,
         "name": "USB",
         "pcb_color": "rgb(42, 178, 255)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgb(42, 178, 255)",
         "tuning_profile": "",
         "wire_width": 6
@@ -607,6 +617,22 @@
       {
         "netclass": "PWR",
         "pattern": "/IO/P_LDOIN"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/IO/IO2/USB_D*"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/IO/USB_D*"
+      },
+      {
+        "netclass": "CAN",
+        "pattern": "/Peripherals/CAN & LEDs/CAN+"
+      },
+      {
+        "netclass": "CAN",
+        "pattern": "/Peripherals/CAN & LEDs/CAN-"
       }
     ]
   },

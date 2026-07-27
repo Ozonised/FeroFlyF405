@@ -3160,13 +3160,14 @@
 		)
 		(uuid "4da4a178-45f9-4692-8fbf-5ec5b0e1e096")
 	)
-	(text "Current input voltage: 3V3 max"
+	(text "Current input voltage: 3V3 max\nPlace away from switching circuits"
 		(exclude_from_sim no)
-		(at 187.198 151.892 0)
+		(at 171.958 151.384 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left)
 		)
 		(uuid "91034ff4-8327-4a3b-9c0f-14e4f0ba5389")
 	)

@@ -1441,6 +1441,28 @@
 		)
 		(uuid "49c2bf64-d9fe-46bf-864b-669f1f228102")
 	)
+	(text_box "Place away from connectors, mounting holes & switching circuits."
+		(exclude_from_sim no)
+		(at 115.57 124.1808 0)
+		(size 70.485 8.773)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Adwaita Sans")
+				(size 2.032 2.032)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "4ecfbb70-035e-436b-99e6-abad07bdadfb")
+	)
 	(junction
 		(at 78.74 69.85)
 		(diameter 0)

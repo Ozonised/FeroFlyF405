@@ -2100,6 +2100,16 @@
 		)
 		(uuid "c81ef65e-63e0-4d1f-be84-2932c3bb5f0f")
 	)
+	(text "Refer to page 19 of the datasheet(AP62200_AP62201_AP62200T.pdf) for PCB layout"
+		(exclude_from_sim no)
+		(at 150.114 91.948 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "10ca6708-d333-4cd6-b251-bd6bb440779f")
+	)
 	(text "5V -> 3.3V LDO"
 		(exclude_from_sim no)
 		(at 191.008 111.252 0)
@@ -2137,6 +2147,16 @@
 			)
 		)
 		(uuid "5faf0b81-f664-40f4-a77d-ba178a46e4de")
+	)
+	(text "Refer to section 7.4 (page 21) of the datasheet(TLV757.pdf) for PCB layout"
+		(exclude_from_sim no)
+		(at 196.088 143.002 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b1325617-4925-41dc-9c82-74cce47e69bf")
 	)
 	(text "VBAT Sensing"
 		(exclude_from_sim no)

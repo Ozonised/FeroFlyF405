@@ -404,7 +404,7 @@
 			(size 1.9 0.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "Net-(J601-Pin_3)")
+			(net "/Peripherals/CAN & LEDs/CAN-")
 			(pinfunction "K_1")
 			(pintype "passive")
 			(uuid "e1be2f60-fe41-436a-a691-15a1882b59d5")
@@ -414,7 +414,7 @@
 			(size 1.9 0.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "Net-(J601-Pin_2)")
+			(net "/Peripherals/CAN & LEDs/CAN+")
 			(pinfunction "K_2")
 			(pintype "passive")
 			(uuid "482fdf20-47f8-4f39-8946-e162e422ad87")
@@ -6306,7 +6306,7 @@
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "Net-(J601-Pin_3)")
+			(net "/Peripherals/CAN & LEDs/CAN-")
 			(pinfunction "CANL_6")
 			(pintype "bidirectional")
 			(uuid "dfc19705-0e46-457e-a1bf-0cf59da76dec")
@@ -6316,7 +6316,7 @@
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "Net-(J601-Pin_2)")
+			(net "/Peripherals/CAN & LEDs/CAN+")
 			(pinfunction "CANH_7")
 			(pintype "bidirectional")
 			(uuid "c5227238-59ad-4c27-bcfa-60851b843dac")
@@ -28402,7 +28402,7 @@
 			(size 0.6 1.7)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "Net-(J601-Pin_2)")
+			(net "/Peripherals/CAN & LEDs/CAN+")
 			(pinfunction "Pin_2_2")
 			(pintype "passive")
 			(uuid "607b1908-a48c-49c2-8229-8bf59e2c1031")
@@ -28412,7 +28412,7 @@
 			(size 0.6 1.7)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "Net-(J601-Pin_3)")
+			(net "/Peripherals/CAN & LEDs/CAN-")
 			(pinfunction "Pin_3_3")
 			(pintype "passive")
 			(uuid "666bcc8d-a802-4e17-9817-f7935425b735")
@@ -33450,7 +33450,7 @@
 			(at -0.725 0)
 			(size 0.3 0.3)
 			(layers "F.Cu" "F.Mask")
-			(net "Net-(J601-Pin_2)")
+			(net "/Peripherals/CAN & LEDs/CAN+")
 			(pinfunction "A_1")
 			(pintype "passive")
 			(zone_connect 2)
@@ -37803,14 +37803,14 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "fa7889d7-2dfa-4236-9cb0-25bdc3690ac1")
 		(at 118.275 134.115)
-		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
 		(property "Reference" "R605"
-			(at 0 -1.43 0)
+			(at 0 -1.83 0)
 			(layer "F.SilkS")
 			(uuid "eac632ad-9ee1-41dd-aa2b-1f732c50f370")
 			(effects
@@ -37821,7 +37821,7 @@
 			)
 		)
 		(property "Value" "120"
-			(at 0 1.43 0)
+			(at 0 1.83 0)
 			(layer "F.Fab")
 			(uuid "b661cd72-a8e0-4d6e-8fd2-0959b87cb11d")
 			(effects
@@ -37865,12 +37865,12 @@
 				)
 			)
 		)
-		(property "MPN" "CR0603-FX-1200ELF"
+		(property "MPN" "CR1206-FX-1200ELF"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0ac03188-016c-468a-805b-06c608d2dc4f")
+			(uuid "177085a9-28ec-4e3e-8d46-ccd4e2e2c2c3")
 			(effects
 				(font
 					(size 1 1)
@@ -37883,46 +37883,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "48300179-ed33-4c99-83a6-4e1ed43ab165")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MANUFACTURER" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ae3064e5-9fa6-4052-bb60-d5fe9cf5e5ca")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c0b00a9f-7a2b-42d5-87cb-42e80495d6c9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "KLC_S4.1" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8edf9520-2359-4aa8-86b2-76c55b42cddf")
+			(uuid "02b0ccb7-6b19-4d03-9a38-98e751023b56")
 			(effects
 				(font
 					(size 1 1)
@@ -37943,8 +37904,8 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -0.254724 -0.5225)
-			(end 0.254724 -0.5225)
+			(start -0.727064 -0.91)
+			(end 0.727064 -0.91)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -37953,8 +37914,8 @@
 			(uuid "3445bea6-59ab-400b-8e76-d565c503794c")
 		)
 		(fp_line
-			(start -0.254724 0.5225)
-			(end 0.254724 0.5225)
+			(start -0.727064 0.91)
+			(end 0.727064 0.91)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -37963,8 +37924,8 @@
 			(uuid "fb315b15-db87-4b3a-af85-d64bf554cd35")
 		)
 		(fp_rect
-			(start -1.65 -0.73)
-			(end 1.65 0.73)
+			(start -2.45 -1.13)
+			(end 2.45 1.13)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -37974,8 +37935,8 @@
 			(uuid "47da7f0d-57be-48ee-8409-4981000f378d")
 		)
 		(fp_rect
-			(start -0.8 -0.4125)
-			(end 0.8 0.4125)
+			(start -1.6 -0.8)
+			(end 1.6 0.8)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -37990,31 +37951,31 @@
 			(uuid "06392387-12f0-4b4a-b4ad-b1612794650f")
 			(effects
 				(font
-					(size 0.4 0.4)
-					(thickness 0.06)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.9125 0)
-			(size 0.975 0.95)
+			(at -1.55 0)
+			(size 1.3 1.75)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
+			(roundrect_rratio 0.192308)
 			(net "Net-(JP601-B)")
 			(pintype "passive")
 			(uuid "2161775c-e37a-4c86-bb44-4701f917bb81")
 		)
 		(pad "2" smd roundrect
-			(at 0.9125 0)
-			(size 0.975 0.95)
+			(at 1.55 0)
+			(size 1.3 1.75)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net "Net-(J601-Pin_3)")
+			(roundrect_rratio 0.192308)
+			(net "/Peripherals/CAN & LEDs/CAN-")
 			(pintype "passive")
 			(uuid "750e9c5e-a766-4195-99dc-903837c803fa")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
