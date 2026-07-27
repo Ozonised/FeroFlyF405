@@ -8,6 +8,8 @@
 		(title "FeroFly405")
 		(date "2026-07-22")
 		(rev "1")
+		(comment 3 "GitHub: https://github.com/Ozonised/FeroFly405")
+		(comment 4 "Designed by: Farhan Khan")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic_MountingPin:Conn_01x04_MountingPin"
