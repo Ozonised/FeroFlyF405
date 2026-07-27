@@ -1,0 +1,432 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "03df7239-7cec-4364-b20d-3c6c0e9a22b2")
+	(paper "A4")
+	(title_block
+		(title "FeroFly405")
+		(date "2026-07-22")
+		(rev "1")
+	)
+	(lib_symbols)
+	(text "(4) Peripherals"
+		(exclude_from_sim no)
+		(at 150.876 28.956 0)
+		(effects
+			(font
+				(face "Adwaita Sans")
+				(size 7.62 7.62)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "bc676d40-d629-4841-b86c-9951cfb38424")
+	)
+	(wire
+		(pts
+			(xy 53.34 92.71) (xy 67.31 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "245d912a-65a8-4d28-b219-363618b2cf18")
+	)
+	(wire
+		(pts
+			(xy 172.72 85.09) (xy 181.61 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "270075fe-5e60-44f6-8420-a3376f889dfc")
+	)
+	(wire
+		(pts
+			(xy 53.34 90.17) (xy 67.31 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e4cf529-b9f1-4232-8bda-060353e59cf3")
+	)
+	(wire
+		(pts
+			(xy 53.34 95.25) (xy 67.31 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64c4ae65-2a8e-48d2-a2ca-e9694ad901be")
+	)
+	(wire
+		(pts
+			(xy 53.34 97.79) (xy 67.31 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e759749-631c-4aaa-9020-c0e26552cf5b")
+	)
+	(wire
+		(pts
+			(xy 53.34 85.09) (xy 67.31 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f96c651-af6b-490f-b75c-f1680c9d44a4")
+	)
+	(wire
+		(pts
+			(xy 172.72 82.55) (xy 181.61 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e0a0a9b-f07d-47d0-8814-613b87dccbde")
+	)
+	(wire
+		(pts
+			(xy 173.99 95.25) (xy 181.61 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0d371d4-f308-48fa-8584-30646bc091da")
+	)
+	(wire
+		(pts
+			(xy 53.34 82.55) (xy 67.31 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a173071a-6e10-4e86-bd29-757009e4bc4c")
+	)
+	(wire
+		(pts
+			(xy 173.99 92.71) (xy 181.61 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c47deb39-278a-4a22-b05d-e924e88e0bd1")
+	)
+	(hierarchical_label "D_SPI1_SCK"
+		(shape output)
+		(at 53.34 97.79 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "11a214d4-3a6d-406d-94ec-3dbb78d1b828")
+	)
+	(hierarchical_label "D_SPI1_CS"
+		(shape output)
+		(at 53.34 90.17 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1a11ce22-aac2-4202-aace-c198726db140")
+	)
+	(hierarchical_label "D_SPI1_MOSI"
+		(shape output)
+		(at 53.34 95.25 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "36b41a62-6021-468b-b80a-b9d7bffa03b9")
+	)
+	(hierarchical_label "D_CAN2RX"
+		(shape input)
+		(at 173.99 92.71 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "46de280e-e2d8-405e-906f-fee899edd9ef")
+	)
+	(hierarchical_label "D_I2C2_SCL"
+		(shape output)
+		(at 53.34 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "721dacb3-c334-43c1-98e3-4e8f125fc606")
+	)
+	(hierarchical_label "D_CAN2TX"
+		(shape output)
+		(at 173.99 95.25 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8b8f18c8-08fe-4d52-8667-770fcdac4125")
+	)
+	(hierarchical_label "D_I2C2_SDA"
+		(shape bidirectional)
+		(at 53.34 85.09 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a6f94390-985a-4630-a663-6d31c9645426")
+	)
+	(hierarchical_label "D_LED0"
+		(shape input)
+		(at 172.72 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d97e630e-91ca-46cb-b04c-06955a768230")
+	)
+	(hierarchical_label "D_SPI1_MISO"
+		(shape input)
+		(at 53.34 92.71 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f4d3a7ad-eb9b-48ff-b128-869656e4f0be")
+	)
+	(hierarchical_label "D_LED1"
+		(shape input)
+		(at 172.72 85.09 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f5b83f75-6712-4a6f-baf4-172335fd0a6c")
+	)
+	(sheet
+		(at 181.61 74.93)
+		(size 53.34 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "367b3cbf-5e59-446e-ac2c-a19d2fd73a05")
+		(property "Sheetname" "CAN & LEDs"
+			(at 181.61 72.9484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Adwaita Sans")
+					(size 3.81 3.81)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "peripherals 2.kicad_sch"
+			(at 181.61 116.7896 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D_LED0" input
+			(at 181.61 82.55 180)
+			(uuid "4c39bf8e-2d3d-496c-af3f-1d1059031d7c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_LED1" input
+			(at 181.61 85.09 180)
+			(uuid "b8661a29-e002-4ffc-ab47-89d36893b8ff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_CAN2RX" input
+			(at 181.61 92.71 180)
+			(uuid "91a10068-6f9d-4af1-ada2-8b6bae057766")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_CAN2TX" output
+			(at 181.61 95.25 180)
+			(uuid "d9b6d5ec-c2ef-4445-a740-cbb769685c35")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "FeroFly"
+				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 67.31 74.295)
+		(size 53.34 41.275)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bd7b114a-6246-4c5b-8567-24e6abe0f316")
+		(property "Sheetname" "IMUs"
+			(at 67.437 74.041 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Adwaita Sans")
+					(size 3.81 3.81)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IMUs.kicad_sch"
+			(at 67.31 116.1546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D_I2C2_SCL" output
+			(at 67.31 82.55 180)
+			(uuid "49617704-cb69-413b-9241-2c5a6f72529d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_I2C2_SDA" bidirectional
+			(at 67.31 85.09 180)
+			(uuid "f4577b6f-f8b1-44c0-b589-2ecfdb82ba64")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_SPI1_CS" output
+			(at 67.31 90.17 180)
+			(uuid "2624d1e3-7164-4001-9a66-a3cad53558c6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_SPI1_MISO" input
+			(at 67.31 92.71 180)
+			(uuid "f29710e1-4948-443e-a030-1f5fe11318fb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_SPI1_MOSI" input
+			(at 67.31 95.25 180)
+			(uuid "5e6e4e5a-69cc-4763-b683-20539f7a1c07")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_SPI1_SCK" output
+			(at 67.31 97.79 180)
+			(uuid "8e2c1c9e-c19a-48fe-9623-b98ef1136a24")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "FeroFly"
+				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569"
+					(page "5")
+				)
+			)
+		)
+	)
+)
