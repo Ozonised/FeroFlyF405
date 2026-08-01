@@ -5,10 +5,10 @@
 	(uuid "03df7239-7cec-4364-b20d-3c6c0e9a22b2")
 	(paper "A4")
 	(title_block
-		(title "FeroFly405")
+		(title "FeroFlyF405")
 		(date "2026-07-22")
 		(rev "1")
-		(comment 3 "GitHub: https://github.com/Ozonised/FeroFly405")
+		(comment 3 "GitHub: https://github.com/Ozonised/FeroFlyF405")
 		(comment 4 "Designed by: Farhan Khan")
 	)
 	(lib_symbols)
@@ -317,7 +317,7 @@
 			)
 		)
 		(instances
-			(project "FeroFly"
+			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569"
 					(page "6")
 				)
@@ -424,7 +424,7 @@
 			)
 		)
 		(instances
-			(project "FeroFly"
+			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569"
 					(page "5")
 				)

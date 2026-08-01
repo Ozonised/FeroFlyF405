@@ -5,10 +5,10 @@
 	(uuid "8fea5468-8d8d-4bdb-afc0-e65b62c92669")
 	(paper "A4")
 	(title_block
-		(title "FeroFly405")
+		(title "FeroFlyF405")
 		(date "2026-07-22")
 		(rev "1")
-		(comment 3 "GitHub: https://github.com/Ozonised/FeroFly405")
+		(comment 3 "GitHub: https://github.com/Ozonised/FeroFlyF405")
 		(comment 4 "Designed by: Farhan Khan")
 	)
 	(lib_symbols
@@ -137,7 +137,7 @@
 		)
 		(uuid "2a78f1ad-5ecd-40df-8a76-ecdd98e66810")
 	)
-	(text "FeroFly405"
+	(text "FeroFlyF405"
 		(exclude_from_sim no)
 		(at 149.098 29.972 0)
 		(effects
@@ -849,7 +849,7 @@
 			)
 		)
 		(instances
-			(project "FeroFly"
+			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669"
 					(reference "H103")
 					(unit 1)
@@ -925,7 +925,7 @@
 			)
 		)
 		(instances
-			(project "FeroFly"
+			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669"
 					(reference "H101")
 					(unit 1)
@@ -1001,7 +1001,7 @@
 			)
 		)
 		(instances
-			(project "FeroFly"
+			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669"
 					(reference "H104")
 					(unit 1)
@@ -1077,7 +1077,7 @@
 			)
 		)
 		(instances
-			(project "FeroFly"
+			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669"
 					(reference "H102")
 					(unit 1)
@@ -1225,7 +1225,7 @@
 			)
 		)
 		(instances
-			(project "FeroFly"
+			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669"
 					(page "4")
 				)
@@ -1633,7 +1633,7 @@
 			)
 		)
 		(instances
-			(project "FeroFly"
+			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669"
 					(page "3")
 				)
@@ -1700,7 +1700,7 @@
 			)
 		)
 		(instances
-			(project "FeroFly"
+			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669"
 					(page "2")
 				)
@@ -2008,7 +2008,7 @@
 			)
 		)
 		(instances
-			(project "FeroFly"
+			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669"
 					(page "7")
 				)

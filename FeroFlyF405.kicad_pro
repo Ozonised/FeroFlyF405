@@ -505,7 +505,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "FeroFly.kicad_pro",
+    "filename": "FeroFlyF405.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -820,8 +820,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "FeroFly.kicad_sch",
-        "name": "FeroFly",
+        "filename": "FeroFlyF405.kicad_sch",
+        "name": "FeroFlyF405",
         "uuid": "8fea5468-8d8d-4bdb-afc0-e65b62c92669"
       }
     ],
@@ -831,7 +831,7 @@
   "sheets": [
     [
       "8fea5468-8d8d-4bdb-afc0-e65b62c92669",
-      "FeroFly"
+      "FeroFlyF405"
     ],
     [
       "8c352998-3abb-4e27-b22f-570d9eb08340",
