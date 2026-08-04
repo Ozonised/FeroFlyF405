@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "DPS368") (type "KiCad") (uri "${KIPRJMOD}/Lib/DPS368/DPS368.kicad_sym") (options "") (descr ""))
+)
