@@ -2464,7 +2464,7 @@
 			)
 		)
 	)
-	(label "D_SPI1_MISOR"
+	(label "SPI1_MISOR"
 		(at 72.39 86.36 0)
 		(effects
 			(font
@@ -2475,7 +2475,7 @@
 		)
 		(uuid "71b85ac5-3ed6-4770-8e4a-75bc843da810")
 	)
-	(hierarchical_label "D_SPI1_MISO"
+	(hierarchical_label "SPI1_MISO"
 		(shape input)
 		(at 59.69 86.36 180)
 		(effects
@@ -2486,7 +2486,7 @@
 		)
 		(uuid "0b765e13-2ed7-432d-a697-c3ca29f49f38")
 	)
-	(hierarchical_label "D_SPI1_MOSI"
+	(hierarchical_label "SPI1_MOSI"
 		(shape input)
 		(at 59.69 96.52 180)
 		(effects
@@ -2497,7 +2497,7 @@
 		)
 		(uuid "20165694-737b-4616-8e9a-13541052ff51")
 	)
-	(hierarchical_label "D_SPI1_CS"
+	(hierarchical_label "SPI1_CS"
 		(shape output)
 		(at 58.42 111.76 180)
 		(effects
@@ -2508,7 +2508,7 @@
 		)
 		(uuid "7ef96c2e-f66f-40c5-9102-15e50c709d6c")
 	)
-	(hierarchical_label "D_SPI1_SCK"
+	(hierarchical_label "SPI1_SCK"
 		(shape output)
 		(at 59.69 99.06 180)
 		(effects

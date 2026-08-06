@@ -126,7 +126,7 @@
 		)
 		(uuid "c47deb39-278a-4a22-b05d-e924e88e0bd1")
 	)
-	(hierarchical_label "D_SPI1_SCK"
+	(hierarchical_label "SPI1_SCK"
 		(shape output)
 		(at 53.34 97.79 180)
 		(effects
@@ -137,7 +137,7 @@
 		)
 		(uuid "11a214d4-3a6d-406d-94ec-3dbb78d1b828")
 	)
-	(hierarchical_label "D_SPI1_CS"
+	(hierarchical_label "SPI1_CS"
 		(shape output)
 		(at 53.34 90.17 180)
 		(effects
@@ -148,7 +148,7 @@
 		)
 		(uuid "1a11ce22-aac2-4202-aace-c198726db140")
 	)
-	(hierarchical_label "D_SPI1_MOSI"
+	(hierarchical_label "SPI1_MOSI"
 		(shape output)
 		(at 53.34 95.25 180)
 		(effects
@@ -214,7 +214,7 @@
 		)
 		(uuid "d97e630e-91ca-46cb-b04c-06955a768230")
 	)
-	(hierarchical_label "D_SPI1_MISO"
+	(hierarchical_label "SPI1_MISO"
 		(shape input)
 		(at 53.34 92.71 180)
 		(effects
@@ -383,7 +383,7 @@
 				(justify left)
 			)
 		)
-		(pin "D_SPI1_CS" output
+		(pin "SPI1_CS" output
 			(at 67.31 90.17 180)
 			(uuid "2624d1e3-7164-4001-9a66-a3cad53558c6")
 			(effects
@@ -393,7 +393,7 @@
 				(justify left)
 			)
 		)
-		(pin "D_SPI1_MISO" input
+		(pin "SPI1_MISO" input
 			(at 67.31 92.71 180)
 			(uuid "f29710e1-4948-443e-a030-1f5fe11318fb")
 			(effects
@@ -403,7 +403,7 @@
 				(justify left)
 			)
 		)
-		(pin "D_SPI1_MOSI" input
+		(pin "SPI1_MOSI" input
 			(at 67.31 95.25 180)
 			(uuid "5e6e4e5a-69cc-4763-b683-20539f7a1c07")
 			(effects
@@ -413,7 +413,7 @@
 				(justify left)
 			)
 		)
-		(pin "D_SPI1_SCK" output
+		(pin "SPI1_SCK" output
 			(at 67.31 97.79 180)
 			(uuid "8e2c1c9e-c19a-48fe-9623-b98ef1136a24")
 			(effects

@@ -2829,6 +2829,16 @@
 		)
 		(uuid "93ceb552-5ad0-462d-bb73-3077e48a1364")
 	)
+	(label "D_CANTR"
+		(at 107.95 81.28 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left bottom)
+		)
+		(uuid "f50fcdd5-b1b7-4bb5-bba4-31a110a864d0")
+	)
 	(hierarchical_label "D_LED0"
 		(shape input)
 		(at 218.44 87.63 180)

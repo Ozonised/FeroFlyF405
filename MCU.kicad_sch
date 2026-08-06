@@ -5181,15 +5181,15 @@
 		)
 		(uuid "18c4f9ef-6ebf-4964-a2f8-a7b07594310e")
 	)
-	(label "D_PA7"
+	(label "SPI1_MOSIR"
 		(at 176.53 91.44 0)
 		(effects
 			(font
-				(size 0.762 0.762)
+				(size 0.635 0.635)
 			)
 			(justify left bottom)
 		)
-		(uuid "362cf249-acd6-49d0-adcb-fd1dcb6eb6a7")
+		(uuid "1f97f869-c38b-4528-a5ba-c27f2dc05e4b")
 	)
 	(label "D_OSC_OUTR"
 		(at 97.79 101.6 0)
@@ -5221,11 +5221,11 @@
 		)
 		(uuid "6642e349-160f-40a6-a9ac-a4a1f332e209")
 	)
-	(label "D_PA5"
+	(label "SPI1_SCKR"
 		(at 176.53 86.36 0)
 		(effects
 			(font
-				(size 0.762 0.762)
+				(size 0.635 0.635)
 			)
 			(justify left bottom)
 		)
@@ -5341,7 +5341,7 @@
 		)
 		(uuid "ef98ed9f-99cc-4e1b-b6f7-3588a36d97fb")
 	)
-	(hierarchical_label "D_SPI1_MOSI"
+	(hierarchical_label "SPI1_MOSI"
 		(shape output)
 		(at 191.77 91.44 0)
 		(effects
@@ -5398,7 +5398,7 @@
 	)
 	(hierarchical_label "USB_D+"
 		(shape bidirectional)
-		(at 185.42 101.6 0)
+		(at 185.42 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5462,7 +5462,7 @@
 		)
 		(uuid "95265662-79af-4817-b4bd-a82dbc6d1300")
 	)
-	(hierarchical_label "D_SPI1_MISO"
+	(hierarchical_label "SPI1_MISO"
 		(shape input)
 		(at 191.77 88.9 0)
 		(effects
@@ -5539,7 +5539,7 @@
 		)
 		(uuid "aeb0f4cd-7420-46e1-a8d9-fdcd284d76aa")
 	)
-	(hierarchical_label "D_SPI1_CS"
+	(hierarchical_label "SPI1_CS"
 		(shape output)
 		(at 128.27 106.68 180)
 		(effects
@@ -5627,7 +5627,7 @@
 		)
 		(uuid "d3a63647-8f4e-4225-9ba5-9fd0612f3ca6")
 	)
-	(hierarchical_label "D_SPI1_SCK"
+	(hierarchical_label "SPI1_SCK"
 		(shape output)
 		(at 191.77 86.36 0)
 		(effects
@@ -5728,7 +5728,7 @@
 	)
 	(hierarchical_label "USB_D-"
 		(shape bidirectional)
-		(at 185.42 104.14 0)
+		(at 185.42 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)

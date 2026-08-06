@@ -1164,7 +1164,7 @@
 				(justify right)
 			)
 		)
-		(pin "D_SPI1_CS" output
+		(pin "SPI1_CS" output
 			(at 99.06 110.49 0)
 			(uuid "3283354f-b8de-4bca-ba9c-9b821d66c9a0")
 			(effects
@@ -1174,7 +1174,7 @@
 				(justify right)
 			)
 		)
-		(pin "D_SPI1_MISO" input
+		(pin "SPI1_MISO" input
 			(at 99.06 107.95 0)
 			(uuid "2b19b39c-8e48-4e89-b48f-56e1349645c8")
 			(effects
@@ -1184,7 +1184,7 @@
 				(justify right)
 			)
 		)
-		(pin "D_SPI1_MOSI" output
+		(pin "SPI1_MOSI" output
 			(at 99.06 105.41 0)
 			(uuid "266b1871-ca08-4885-9d9b-5cd266147fb8")
 			(effects
@@ -1194,7 +1194,7 @@
 				(justify right)
 			)
 		)
-		(pin "D_SPI1_SCK" output
+		(pin "SPI1_SCK" output
 			(at 99.06 102.87 0)
 			(uuid "1fc1e231-3382-4327-a264-f7e96870f3db")
 			(effects
@@ -1372,7 +1372,7 @@
 				(justify right)
 			)
 		)
-		(pin "D_SPI1_CS" output
+		(pin "SPI1_CS" output
 			(at 118.11 110.49 180)
 			(uuid "c7f643e7-e91a-4c33-a5fd-99d0b276958e")
 			(effects
@@ -1382,7 +1382,7 @@
 				(justify left)
 			)
 		)
-		(pin "D_SPI1_MISO" input
+		(pin "SPI1_MISO" input
 			(at 118.11 107.95 180)
 			(uuid "e36d144a-b09b-4a6e-ba6a-6ff365fd1d1b")
 			(effects
@@ -1392,7 +1392,7 @@
 				(justify left)
 			)
 		)
-		(pin "D_SPI1_MOSI" output
+		(pin "SPI1_MOSI" output
 			(at 118.11 105.41 180)
 			(uuid "c7173629-3976-4c01-9f6a-22213d89acaf")
 			(effects
@@ -1402,7 +1402,7 @@
 				(justify left)
 			)
 		)
-		(pin "D_SPI1_SCK" output
+		(pin "SPI1_SCK" output
 			(at 118.11 102.87 180)
 			(uuid "bbde8a41-8fc9-4289-a78d-2bd2535c3d32")
 			(effects
