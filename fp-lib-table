@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "pin_header_01x03") (type "KiCad") (uri "${KIPRJMOD}/Lib/pin_header_01x03.pretty") (options "") (descr ""))
+)
