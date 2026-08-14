@@ -6479,7 +6479,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "pin_header_01x03:PinHeader_1x03_P2.54mm_Vertical"
 			(at 64.77 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6574,7 +6574,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "pin_header_01x03:PinHeader_1x03_P2.54mm_Vertical"
 			(at 64.77 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -6669,7 +6669,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "pin_header_01x03:PinHeader_1x03_P2.54mm_Vertical"
 			(at 64.77 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -7507,7 +7507,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "pin_header_01x03:PinHeader_1x03_P2.54mm_Vertical"
 			(at 64.77 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -7602,7 +7602,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "pin_header_01x03:PinHeader_1x03_P2.54mm_Vertical"
 			(at 64.77 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -7776,7 +7776,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "pin_header_01x03:PinHeader_1x03_P2.54mm_Vertical"
 			(at 64.77 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -7950,7 +7950,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "pin_header_01x03:PinHeader_1x03_P2.54mm_Vertical"
 			(at 64.77 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -9162,7 +9162,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "pin_header_01x03:PinHeader_1x03_P2.54mm_Vertical"
 			(at 64.77 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -9563,7 +9563,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "pin_header_01x03:PinHeader_1x03_P2.54mm_Vertical"
 			(at 64.77 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -11120,7 +11120,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "pin_header_01x03:PinHeader_1x03_P2.54mm_Vertical"
 			(at 64.77 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -11562,7 +11562,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "pin_header_01x03:PinHeader_1x03_P2.54mm_Vertical"
 			(at 64.77 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -11772,7 +11772,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "pin_header_01x03:PinHeader_1x03_P2.54mm_Vertical"
 			(at 64.77 78.74 0)
 			(hide yes)
 			(show_name no)
