@@ -4591,7 +4591,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias"
+		(property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
 			(at 187.96 116.205 0)
 			(hide yes)
 			(show_name no)
