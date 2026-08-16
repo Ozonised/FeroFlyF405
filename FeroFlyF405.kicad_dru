@@ -1,0 +1,6 @@
+(version 1)
+(rule "Minimum clearance 1"
+	(layer "F.Cu")
+	(constraint clearance (min 0.15mm))
+	(condition "A.intersectsArea('LSM6DSL')")
+)
