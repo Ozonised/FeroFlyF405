@@ -1924,145 +1924,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:VDD"
-			(power global)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "VDD"
-				(at 0 3.556 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"VDD\""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "VDD_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "VDD_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 	)
 	(rectangle
 		(start 77.47 55.88)
@@ -2252,12 +2113,6 @@
 		(uuid "3509b49d-f6f9-418b-a250-c94113c04727")
 	)
 	(junction
-		(at 116.84 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "35315952-da29-474d-858d-7b2e4f6fdbab")
-	)
-	(junction
 		(at 111.76 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2324,6 +2179,12 @@
 		(uuid "914819b1-cde2-45c3-81de-b129a8929881")
 	)
 	(junction
+		(at 118.11 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "93539d48-e6a5-4274-8edc-caf4a2136bf4")
+	)
+	(junction
 		(at 194.31 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2388,12 +2249,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e854e597-f282-457b-9f07-0b6be7dedcae")
-	)
-	(junction
-		(at 111.76 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ea14a82b-0f41-4992-9ef6-6da046ea358b")
 	)
 	(junction
 		(at 199.39 133.35)
@@ -2537,26 +2392,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 68.58) (xy 120.65 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26947ed6-4e0b-4f45-999c-16198cf82762")
-	)
-	(wire
-		(pts
-			(xy 83.82 118.11) (xy 83.82 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ad430c3-eaa4-4eb6-8e76-f7e7eeed5c4b")
-	)
-	(wire
-		(pts
 			(xy 83.82 133.35) (xy 83.82 134.62)
 		)
 		(stroke
@@ -2594,6 +2429,16 @@
 			(type default)
 		)
 		(uuid "3cd211bf-ebf9-478d-91ed-432f40a31633")
+	)
+	(wire
+		(pts
+			(xy 118.11 68.58) (xy 120.65 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d8b0376-4ae1-4604-967f-81555eb9cfa9")
 	)
 	(wire
 		(pts
@@ -2717,16 +2562,6 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 64.77) (xy 111.76 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6020b4cb-d6d9-4f7e-b6e5-a303e21da4e2")
-	)
-	(wire
-		(pts
 			(xy 204.47 86.36) (xy 194.31 86.36)
 		)
 		(stroke
@@ -2804,6 +2639,26 @@
 			(type default)
 		)
 		(uuid "72aae39b-b449-4208-b708-4474f59e5d38")
+	)
+	(wire
+		(pts
+			(xy 90.17 118.11) (xy 83.82 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79f13340-e677-4691-af3f-5cc700d94faf")
+	)
+	(wire
+		(pts
+			(xy 83.82 118.11) (xy 83.82 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a092ecb-f959-41e5-9a5d-b485e1a0d437")
 	)
 	(wire
 		(pts
@@ -3317,7 +3172,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 68.58) (xy 116.84 68.58)
+			(xy 111.76 68.58) (xy 118.11 68.58)
 		)
 		(stroke
 			(width 0)
@@ -3529,6 +3384,16 @@
 			)
 		)
 	)
+	(label "P_VBAT"
+		(at 90.17 118.11 180)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify right bottom)
+		)
+		(uuid "41304441-0350-4a4a-b956-650ef077c4bb")
+	)
 	(label "D_FB"
 		(at 170.18 77.47 0)
 		(effects
@@ -3540,6 +3405,16 @@
 		(uuid "8244b961-fc0e-4dd3-ad6e-a9af87bfe4db")
 	)
 	(label "P_VIN"
+		(at 111.76 68.58 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left bottom)
+		)
+		(uuid "a158cd65-e1f4-40d8-843e-1f18678caf85")
+	)
+	(label "P_VBAT"
 		(at 92.71 69.85 0)
 		(effects
 			(font
@@ -3571,7 +3446,7 @@
 		)
 		(uuid "a2528905-6daf-40d4-9a26-065b7f2653a4")
 	)
-	(hierarchical_label "D_ADC1_CH11"
+	(hierarchical_label "D_ADC2_CH13"
 		(shape input)
 		(at 100.33 127 0)
 		(effects
@@ -6141,7 +6016,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 116.84 68.58 0)
+		(at 118.11 68.58 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6152,7 +6027,7 @@
 		(fields_autoplaced yes)
 		(uuid "b13e0e56-ea56-44b8-80bc-dfd04684673d")
 		(property "Reference" "#FLG0203"
-			(at 116.84 66.675 0)
+			(at 118.11 66.675 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6163,7 +6038,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 116.84 63.5 0)
+			(at 118.11 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6174,7 +6049,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 68.58 0)
+			(at 118.11 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6185,7 +6060,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 68.58 0)
+			(at 118.11 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6196,7 +6071,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 116.84 68.58 0)
+			(at 118.11 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6598,83 +6473,6 @@
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/8c352998-3abb-4e27-b22f-570d9eb08340"
 					(reference "#FLG0201")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VDD")
-		(at 111.76 64.77 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d3423552-d9f5-4872-bcd3-b4102146770e")
-		(property "Reference" "#PWR0204"
-			(at 111.76 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VBAT"
-			(at 111.76 60.96 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 111.76 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 111.76 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 111.76 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b15ccc86-b886-459d-b488-fb3c520d2a3b")
-		)
-		(instances
-			(project "FeroFlyF405"
-				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/8c352998-3abb-4e27-b22f-570d9eb08340"
-					(reference "#PWR0204")
 					(unit 1)
 				)
 			)
@@ -7222,83 +7020,6 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "power:VDD")
-		(at 83.82 118.11 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f6424fa7-cb13-40fb-ae22-88e1e18aa3a8")
-		(property "Reference" "#PWR0205"
-			(at 83.82 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VBAT"
-			(at 83.82 114.3 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 83.82 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 83.82 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 83.82 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ba909b54-8b07-4a49-9aa6-22aa4c29fe41")
-		)
-		(instances
-			(project "FeroFlyF405"
-				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/8c352998-3abb-4e27-b22f-570d9eb08340"
-					(reference "#PWR0205")
-					(unit 1)
-				)
-			)
-		)
-	)
 	(group "TLV75733PDRV 5V to 3V3 LDO"
 		(uuid "ab0baeef-93f2-4c65-b076-2fea653f0e16")
 		(lib_id "LDO:TLV75733PDRV 5V to 3V3 LDO")
@@ -7345,18 +7066,18 @@
 			"571c9fd4-6b24-47cf-8e6a-ef8fcec048c0" "57428393-3733-4f75-bf67-05d5190175df"
 			"586f5feb-deab-4caf-be0a-bb50dda0a7cb" "59393135-ec82-42aa-806c-64f4a4e9a5ba"
 			"5af383f5-026f-4ad0-8372-ac2e10e87989" "5bcefc9e-4033-4012-a7a6-c2eb75c9e0ec"
-			"6020b4cb-d6d9-4f7e-b6e5-a303e21da4e2" "6321c341-3fe6-417e-a32d-ddaced3692a1"
-			"63b08ea2-8204-45a8-aa9c-b9e1540141e9" "6bd96ba4-4928-42b8-8389-19d9b3e9f5f4"
-			"6c6e0c14-afad-477b-89cf-35a4bf20de09" "72aae39b-b449-4208-b708-4474f59e5d38"
-			"7b16d398-0ef6-40a8-b305-f76fdd29cfa2" "7fdcef17-c78e-4adf-a190-b8209437da3c"
-			"83e9b82c-6d2b-4257-b4f0-6710951e7258" "8624ad8b-a793-41a1-a271-db488002b5e1"
-			"86ef56f9-4600-44f7-9efe-7db11e620cfd" "896974be-c101-46e1-848e-896c5c5972df"
-			"8cf8a9d2-6695-441e-b895-c6b04eebd1aa" "8ea2e0a8-f82b-4189-94a0-8c2a91d4ee14"
-			"92c0fe5f-0d0b-4035-abd4-f5d8176b2d88" "97588cf4-3083-4d00-b06a-c70ae79744ce"
-			"9b1ff41b-2146-4023-8d95-5ad25ec27cbd" "9b693a1f-c7a9-49ec-b957-c236d91e763d"
-			"9dd698e1-a52c-4bd1-99b9-ca5372d5fcfa" "9e4a0fc1-6f3a-4aab-a969-24e533e0eabd"
-			"9e6f00c7-dee3-4c55-9a6a-3cd6308a7dbe" "9f1a245d-22b3-4cc1-901d-0f291c370392"
-			"9fb258b8-345b-467f-99e3-995613ebe33a" "a046420f-a375-4fba-974a-956e16746f44"
+			"6321c341-3fe6-417e-a32d-ddaced3692a1" "63b08ea2-8204-45a8-aa9c-b9e1540141e9"
+			"6bd96ba4-4928-42b8-8389-19d9b3e9f5f4" "6c6e0c14-afad-477b-89cf-35a4bf20de09"
+			"72aae39b-b449-4208-b708-4474f59e5d38" "7b16d398-0ef6-40a8-b305-f76fdd29cfa2"
+			"7fdcef17-c78e-4adf-a190-b8209437da3c" "83e9b82c-6d2b-4257-b4f0-6710951e7258"
+			"8624ad8b-a793-41a1-a271-db488002b5e1" "86ef56f9-4600-44f7-9efe-7db11e620cfd"
+			"896974be-c101-46e1-848e-896c5c5972df" "8cf8a9d2-6695-441e-b895-c6b04eebd1aa"
+			"8ea2e0a8-f82b-4189-94a0-8c2a91d4ee14" "92c0fe5f-0d0b-4035-abd4-f5d8176b2d88"
+			"97588cf4-3083-4d00-b06a-c70ae79744ce" "9b1ff41b-2146-4023-8d95-5ad25ec27cbd"
+			"9b693a1f-c7a9-49ec-b957-c236d91e763d" "9dd698e1-a52c-4bd1-99b9-ca5372d5fcfa"
+			"9e4a0fc1-6f3a-4aab-a969-24e533e0eabd" "9e6f00c7-dee3-4c55-9a6a-3cd6308a7dbe"
+			"9f1a245d-22b3-4cc1-901d-0f291c370392" "9fb258b8-345b-467f-99e3-995613ebe33a"
+			"a046420f-a375-4fba-974a-956e16746f44" "a158cd65-e1f4-40d8-843e-1f18678caf85"
 			"a1ae669e-dd45-4aa2-94e0-d62b0e1e0d7a" "a75fef34-be9b-4ba3-9bfd-016d06be7fd3"
 			"a781f3ea-f70d-44db-92ce-141e55ac24b6" "a7e4f5ea-172e-4210-bd75-e42807492c0c"
 			"a995a181-70a5-4429-a470-c121fadb6ca4" "aaba35e9-4601-4dd0-97b9-2bd17bf128fb"
@@ -7365,14 +7086,13 @@
 			"bd99400a-8f16-48dd-876d-7c30406d0e87" "c39f324e-d84d-4727-a505-3f1a6f0b6020"
 			"c5cd9225-a551-4e2c-a262-dfaf42769e9a" "c770a358-cb4b-4542-8fd3-c4c053a13e04"
 			"c7e5e63b-96e4-4ef1-9db3-74fe50e9e239" "c9c8c8c2-f100-4fe2-a893-d8349ddb23d8"
-			"cb69951e-8d4b-4384-a499-060ffd25ec0f" "d3423552-d9f5-4872-bcd3-b4102146770e"
-			"d3a81c59-3707-4619-8f85-6f817c813872" "d6dbb5b7-1e3f-45ce-a86d-51af64d69b8b"
-			"dedaccec-d3be-430a-bfbc-919d465999e9" "e3656e8e-59da-417d-8b5c-f01a0110e814"
-			"e90ac307-c53b-4cbe-90a5-27190df05d13" "ea14a82b-0f41-4992-9ef6-6da046ea358b"
+			"cb69951e-8d4b-4384-a499-060ffd25ec0f" "d3a81c59-3707-4619-8f85-6f817c813872"
+			"d6dbb5b7-1e3f-45ce-a86d-51af64d69b8b" "dedaccec-d3be-430a-bfbc-919d465999e9"
+			"e3656e8e-59da-417d-8b5c-f01a0110e814" "e90ac307-c53b-4cbe-90a5-27190df05d13"
 			"f29f2c4d-a10c-4c4b-a193-2342874acf47" "f5d1a81d-9ed5-4e18-9f04-f328a214fdd3"
 			"f615d222-bfb7-4113-8175-28f27fe33a16" "f94d6fab-cbe6-44e1-b623-4c9c644ceedc"
 			"fa31e384-77f5-4c8b-91a5-f2c0bd51bbf3" "fce33441-6ee5-4a40-9fb3-45b146c10b10"
-			"fdac7a27-42fa-4e41-91be-923aa246afb6" "fe1c4aa9-7bea-46d9-923a-8c1d23726854"
+			"fe1c4aa9-7bea-46d9-923a-8c1d23726854"
 		)
 	)
 )

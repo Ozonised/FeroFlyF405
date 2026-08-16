@@ -1309,7 +1309,7 @@
 	)
 	(text "Accelerometer & Gyroscope"
 		(exclude_from_sim no)
-		(at 76.2 56.388 0)
+		(at 76.2 55.88 0)
 		(effects
 			(font
 				(face "Adwaita Sans")
@@ -1337,7 +1337,7 @@
 	)
 	(text "CS = 1 : I2C mode enabled\nCS = 0 : SPI mode enabled"
 		(exclude_from_sim no)
-		(at 69.342 115.57 0)
+		(at 69.85 115.57 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -1372,7 +1372,7 @@
 	)
 	(text "Place 0.1uF caps close to the power pins"
 		(exclude_from_sim no)
-		(at 94.234 68.58 0)
+		(at 93.98 68.58 0)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -1425,16 +1425,16 @@
 		(uuid "4ecfbb70-035e-436b-99e6-abad07bdadfb")
 	)
 	(junction
+		(at 93.98 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "02271870-d62f-482c-9190-c518a8099ff0")
+	)
+	(junction
 		(at 78.74 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "170664c6-93d2-4292-86fc-23b9d99fd96e")
-	)
-	(junction
-		(at 93.98 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "191b638d-6b3a-4bd8-933f-2f196e120f32")
 	)
 	(junction
 		(at 190.5 93.98)
@@ -1449,16 +1449,16 @@
 		(uuid "38b28923-fb62-4ce0-801f-f4aa6228c4b2")
 	)
 	(junction
+		(at 93.98 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d0f1608-37d5-48fb-9881-102292186f8d")
+	)
+	(junction
 		(at 219.71 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4f639bab-4eda-46c3-beda-a57c7cf49eaa")
-	)
-	(junction
-		(at 60.96 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "618afe5c-edcf-4201-af85-88ee295ff0b6")
 	)
 	(junction
 		(at 60.96 99.06)
@@ -1648,6 +1648,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 111.76) (xy 93.98 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c69b716-6620-4fe2-bcf3-b7e312a01343")
+	)
+	(wire
+		(pts
 			(xy 198.12 80.01) (xy 198.12 77.47)
 		)
 		(stroke
@@ -1776,16 +1786,6 @@
 		)
 		(uuid "4bdc7766-4cab-4dba-9ea5-58a35ec27c76")
 	)
-	(wire
-		(pts
-			(xy 60.96 107.95) (xy 60.96 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4f224ca0-ebce-4e4b-888a-8a7dc34be595")
-	)
 	(polyline
 		(pts
 			(xy 40.64 58.42) (xy 129.54 58.42)
@@ -1878,13 +1878,13 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 107.95) (xy 60.96 107.95)
+			(xy 93.98 109.22) (xy 93.98 110.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6cc5e5c5-2fb2-462e-8c9a-8a50d6694112")
+		(uuid "669c7fd5-ec94-4187-9cf5-444391b4eca9")
 	)
 	(wire
 		(pts
@@ -1898,7 +1898,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 111.76) (xy 67.31 111.76)
+			(xy 58.42 111.76) (xy 67.31 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1945,6 +1945,16 @@
 			(type default)
 		)
 		(uuid "7fad3f13-2c30-432e-a66d-43fcf9ef00f4")
+	)
+	(wire
+		(pts
+			(xy 93.98 110.49) (xy 93.98 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82d1c826-a63f-4664-8f65-dc05eb82c265")
 	)
 	(wire
 		(pts
@@ -1995,16 +2005,6 @@
 			(type default)
 		)
 		(uuid "8e558f2e-83f1-457f-bc6b-007efdd70686")
-	)
-	(wire
-		(pts
-			(xy 100.33 110.49) (xy 93.98 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e8a1b0c-a480-421f-b507-ecc5032a1630")
 	)
 	(polyline
 		(pts
@@ -2108,16 +2108,6 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 109.22) (xy 93.98 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2ced081-06a8-4a65-bad1-d48ec5a7a521")
-	)
-	(wire
-		(pts
 			(xy 218.44 107.95) (xy 218.44 110.49)
 		)
 		(stroke
@@ -2138,6 +2128,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 110.49) (xy 93.98 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d738dba5-7f63-429a-bb23-8feeaa84baee")
+	)
+	(wire
+		(pts
 			(xy 218.44 68.58) (xy 204.47 68.58)
 		)
 		(stroke
@@ -2148,13 +2148,13 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 111.76) (xy 60.96 111.76)
+			(xy 93.98 111.76) (xy 96.52 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dc75e533-7be1-41b6-a29c-ae15edcd1e46")
+		(uuid "e25bb97f-cc69-466d-9486-5c6e71f66ac1")
 	)
 	(wire
 		(pts
@@ -2205,16 +2205,6 @@
 			(type default)
 		)
 		(uuid "ee743029-0630-4fdc-b3c5-bf50ecad0b3c")
-	)
-	(wire
-		(pts
-			(xy 93.98 110.49) (xy 93.98 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1b3f1ff-ea0d-4ffe-acde-320a0eb2a31c")
 	)
 	(wire
 		(pts
@@ -2411,7 +2401,7 @@
 				)
 				(uuid "b7edcb6c-ffdb-42ce-adc2-b1e7ebcb7fbc")
 			)
-			(table_cell "CS1"
+			(table_cell "GND"
 				(exclude_from_sim no)
 				(at 83.82 152.8724 0)
 				(size 19.05 2.54)
@@ -2694,7 +2684,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 100.33 110.49 270)
+		(at 96.52 111.76 270)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -2705,7 +2695,7 @@
 		(dnp no)
 		(uuid "46e8c5a4-2a93-4cd7-9b1b-50e18b3fd247")
 		(property "Reference" "TP505"
-			(at 107.696 109.474 90)
+			(at 103.886 110.744 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2715,7 +2705,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 109.22 111.506 90)
+			(at 105.41 112.776 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2725,7 +2715,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 100.33 105.41 0)
+			(at 96.52 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2736,7 +2726,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 105.41 0)
+			(at 96.52 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2747,7 +2737,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 100.33 110.49 0)
+			(at 96.52 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2758,7 +2748,7 @@
 			)
 		)
 		(property "MANUFACTURER" ""
-			(at 100.33 110.49 90)
+			(at 96.52 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3436,7 +3426,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 57.15 107.95 90)
+		(at 91.44 110.49 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3446,7 +3436,7 @@
 		(dnp no)
 		(uuid "7e0d6021-ada3-429d-88ca-37bda49543ff")
 		(property "Reference" "TP504"
-			(at 49.784 106.934 90)
+			(at 84.074 109.474 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3456,7 +3446,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 48.26 108.966 90)
+			(at 82.55 111.506 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3466,7 +3456,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 57.15 102.87 0)
+			(at 91.44 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3477,7 +3467,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 102.87 0)
+			(at 91.44 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3488,7 +3478,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 57.15 107.95 0)
+			(at 91.44 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3499,7 +3489,7 @@
 			)
 		)
 		(property "MANUFACTURER" ""
-			(at 57.15 107.95 90)
+			(at 91.44 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4586,7 +4576,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 93.98 111.76 0)
+		(at 93.98 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4597,7 +4587,7 @@
 		(fields_autoplaced yes)
 		(uuid "d5e7bc8b-1bed-4650-9ab9-2f97601ae224")
 		(property "Reference" "#PWR0412"
-			(at 93.98 118.11 0)
+			(at 93.98 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4608,7 +4598,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 93.98 116.84 0)
+			(at 93.98 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4619,7 +4609,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 93.98 111.76 0)
+			(at 93.98 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4630,7 +4620,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 111.76 0)
+			(at 93.98 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4641,7 +4631,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 93.98 111.76 0)
+			(at 93.98 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5268,34 +5258,37 @@
 	(group "LSM6DSL SPI"
 		(uuid "be73542c-64d5-4a53-ba00-d98c233c7f95")
 		(lib_id "IMUs:LSM6DSL SPI")
-		(members "0635d062-a8a0-4ab7-88f0-7d733a5d459c" "08d9c76a-1b18-45db-82eb-0e4626e43913"
-			"0b765e13-2ed7-432d-a697-c3ca29f49f38" "0cf15dc8-d53c-4683-8b8e-92e908175e51"
-			"0d03070e-c192-4be7-9a94-1618a9bc21cd" "0d8c7b91-da35-45af-ae05-b3e846dd5df7"
-			"13ae05c6-e3d9-49b6-8595-b7365996df05" "170664c6-93d2-4292-86fc-23b9d99fd96e"
-			"1767fb9c-70b6-4273-bfea-e756556dce41" "20165694-737b-4616-8e9a-13541052ff51"
+		(members "02271870-d62f-482c-9190-c518a8099ff0" "0635d062-a8a0-4ab7-88f0-7d733a5d459c"
+			"08d9c76a-1b18-45db-82eb-0e4626e43913" "0b765e13-2ed7-432d-a697-c3ca29f49f38"
+			"0cf15dc8-d53c-4683-8b8e-92e908175e51" "0d03070e-c192-4be7-9a94-1618a9bc21cd"
+			"0d8c7b91-da35-45af-ae05-b3e846dd5df7" "13ae05c6-e3d9-49b6-8595-b7365996df05"
+			"170664c6-93d2-4292-86fc-23b9d99fd96e" "1767fb9c-70b6-4273-bfea-e756556dce41"
+			"1c69b716-6620-4fe2-bcf3-b7e312a01343" "20165694-737b-4616-8e9a-13541052ff51"
 			"22d103fa-4aea-45ce-b705-d1b4f8811300" "2354545d-b0a0-4344-afad-e2ff9edc77de"
 			"2fe60f43-2c08-4a8c-a8c5-675dd7cd4d70" "38b28923-fb62-4ce0-801f-f4aa6228c4b2"
 			"39754c5f-3e21-4062-ae05-09c1728c5d7e" "412d77bc-9edc-44d0-9f3e-d0b2a599ffdd"
-			"50bc12aa-8f9a-4f9b-b2d9-7299a935ae70" "50febd7a-352d-4c65-b0cb-518139e5077c"
-			"52ace526-fbef-42ef-8ec4-49042cb38c17" "5469c8d6-7cbd-49e1-922e-f0e568591383"
-			"57602b03-536e-438a-85dc-25fd0f903f01" "62a35531-832c-452e-8d9f-0abf028220ed"
-			"6330f4bf-415e-4753-b8c6-d06f67f62c48" "665a796b-1f5c-4f64-820e-6bf27b1fe02f"
+			"4d0f1608-37d5-48fb-9881-102292186f8d" "50bc12aa-8f9a-4f9b-b2d9-7299a935ae70"
+			"50febd7a-352d-4c65-b0cb-518139e5077c" "52ace526-fbef-42ef-8ec4-49042cb38c17"
+			"5469c8d6-7cbd-49e1-922e-f0e568591383" "57602b03-536e-438a-85dc-25fd0f903f01"
+			"62a35531-832c-452e-8d9f-0abf028220ed" "6330f4bf-415e-4753-b8c6-d06f67f62c48"
+			"665a796b-1f5c-4f64-820e-6bf27b1fe02f" "669c7fd5-ec94-4187-9cf5-444391b4eca9"
 			"66dc0654-e60c-4bbe-8403-11d5cb7237f0" "71b85ac5-3ed6-4770-8e4a-75bc843da810"
 			"74b72755-23ff-4ccb-bf83-0421d1ba93d5" "76940594-1dae-4213-9b2b-bcc8dd82604b"
 			"7ef96c2e-f66f-40c5-9102-15e50c709d6c" "7f7d6229-e001-4ffe-9c2a-76c6d6886585"
-			"816d7a37-0b5e-4fdb-a295-fd8b0feeccf4" "85138827-62de-4748-94c0-5f3ecb8193d5"
-			"87120c0a-b8b2-43d4-acd1-1990f6fc0408" "88cee71e-28d2-4dbd-86ec-334a81b75eb3"
-			"8aa3f7a8-de52-4b5d-817a-219ec4198cb3" "8d18a69e-c242-4cf8-9f27-90c527ac26ff"
-			"8e558f2e-83f1-457f-bc6b-007efdd70686" "8f79b2a3-c12a-4c2c-b5b2-9b13de51af1d"
-			"94a9712d-524d-4a05-b78c-01201ec4167c" "a0004538-6282-42c8-b5e6-1e07503390af"
-			"aea3631f-6b1d-4c32-b3cc-d2c94224a198" "b03277cb-607d-4945-9fbd-b7127e486f3b"
-			"b27772a1-4e6b-4400-932f-c07c3d349c19" "b590be60-7cb4-4cb8-9bb7-4a80ec985545"
-			"c0cae175-4040-4baa-a449-0e1fb7770943" "d07657d3-82a4-434b-8cd6-003562c17a04"
-			"d0b0d9e1-6eda-4c21-9ba4-a6982ab1a460" "d2ced081-06a8-4a65-bad1-d48ec5a7a521"
+			"816d7a37-0b5e-4fdb-a295-fd8b0feeccf4" "82d1c826-a63f-4664-8f65-dc05eb82c265"
+			"85138827-62de-4748-94c0-5f3ecb8193d5" "87120c0a-b8b2-43d4-acd1-1990f6fc0408"
+			"88cee71e-28d2-4dbd-86ec-334a81b75eb3" "8aa3f7a8-de52-4b5d-817a-219ec4198cb3"
+			"8d18a69e-c242-4cf8-9f27-90c527ac26ff" "8e558f2e-83f1-457f-bc6b-007efdd70686"
+			"8f79b2a3-c12a-4c2c-b5b2-9b13de51af1d" "94a9712d-524d-4a05-b78c-01201ec4167c"
+			"a0004538-6282-42c8-b5e6-1e07503390af" "aea3631f-6b1d-4c32-b3cc-d2c94224a198"
+			"b03277cb-607d-4945-9fbd-b7127e486f3b" "b27772a1-4e6b-4400-932f-c07c3d349c19"
+			"b590be60-7cb4-4cb8-9bb7-4a80ec985545" "c0cae175-4040-4baa-a449-0e1fb7770943"
+			"d07657d3-82a4-434b-8cd6-003562c17a04" "d0b0d9e1-6eda-4c21-9ba4-a6982ab1a460"
 			"d4ae8920-0eb7-40fa-a104-215bc1ba82a7" "d5e7bc8b-1bed-4650-9ab9-2f97601ae224"
-			"d621e954-2bef-46f6-a896-69206058b090" "dc75e533-7be1-41b6-a29c-ae15edcd1e46"
-			"e804b3be-158c-4b5a-93ae-a4c0e2602026" "ea39a907-af77-45fe-a483-6424465d1ac2"
-			"eb9c6634-1dce-47c8-b744-7efd756a19fd" "ee743029-0630-4fdc-b3c5-bf50ecad0b3c"
+			"d621e954-2bef-46f6-a896-69206058b090" "d738dba5-7f63-429a-bb23-8feeaa84baee"
+			"e25bb97f-cc69-466d-9486-5c6e71f66ac1" "e804b3be-158c-4b5a-93ae-a4c0e2602026"
+			"ea39a907-af77-45fe-a483-6424465d1ac2" "eb9c6634-1dce-47c8-b744-7efd756a19fd"
+			"ee743029-0630-4fdc-b3c5-bf50ecad0b3c"
 		)
 	)
 )

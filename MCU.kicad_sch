@@ -3171,8 +3171,8 @@
 		(uuid "0f7964b3-fcd7-4460-8b5e-d1f988b7abc2")
 	)
 	(no_connect
-		(at 134.62 104.14)
-		(uuid "424bd996-3fed-4a2f-96d5-0df73f8bec14")
+		(at 175.26 119.38)
+		(uuid "32a0d472-8dc7-472b-a9e8-53a7fadb1b29")
 	)
 	(no_connect
 		(at 134.62 129.54)
@@ -3191,12 +3191,12 @@
 		(uuid "737a5940-99c9-411f-b3dc-35096f2e9f65")
 	)
 	(no_connect
-		(at 134.62 96.52)
-		(uuid "86f1c295-1da7-4d55-bac5-097b7d32ddbf")
-	)
-	(no_connect
 		(at 175.26 124.46)
 		(uuid "c0ba080a-b791-4911-8f7a-b57e6502cf67")
+	)
+	(no_connect
+		(at 175.26 116.84)
+		(uuid "cd613ae4-e765-41e1-9fc9-598bccb9e54f")
 	)
 	(no_connect
 		(at 175.26 83.82)
@@ -3465,16 +3465,6 @@
 			(type default)
 		)
 		(uuid "1dc268c6-f876-4d0f-867d-0ddd1846585f")
-	)
-	(wire
-		(pts
-			(xy 175.26 119.38) (xy 185.42 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e278555-3343-4060-afd2-37e4626555a7")
 	)
 	(wire
 		(pts
@@ -4038,6 +4028,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 104.14) (xy 134.62 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "700dee95-de61-4e4e-98c6-a9f272df915c")
+	)
+	(wire
+		(pts
 			(xy 124.46 127) (xy 134.62 127)
 		)
 		(stroke
@@ -4115,16 +4115,6 @@
 			(type default)
 		)
 		(uuid "772574a5-f2b8-446d-bbdc-1f59bf079ee4")
-	)
-	(wire
-		(pts
-			(xy 175.26 116.84) (xy 185.42 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "772fc806-6418-4724-ade0-d953f67ab344")
 	)
 	(wire
 		(pts
@@ -4715,6 +4705,16 @@
 			(type default)
 		)
 		(uuid "d13c8a10-2773-466c-b1dc-035df9ee2729")
+	)
+	(wire
+		(pts
+			(xy 129.54 96.52) (xy 134.62 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3be14e1-79f6-4304-b520-1abda5ed043c")
 	)
 	(wire
 		(pts
@@ -5374,6 +5374,17 @@
 		)
 		(uuid "299585e3-53ef-428d-9082-7fc312591125")
 	)
+	(hierarchical_label "D_LED0"
+		(shape input)
+		(at 129.54 99.06 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "361c21cd-f2f4-4d95-9348-58cf20c2cfc3")
+	)
 	(hierarchical_label "D_CAN2TX"
 		(shape output)
 		(at 194.31 149.86 0)
@@ -5417,17 +5428,6 @@
 			(justify right)
 		)
 		(uuid "7262c1b0-896d-4043-97da-9037be7617c9")
-	)
-	(hierarchical_label "D_LED0"
-		(shape input)
-		(at 185.42 116.84 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "89eecbc0-f51f-4c38-836c-cd2be3b8a793")
 	)
 	(hierarchical_label "D_TIM4_CH3"
 		(shape bidirectional)
@@ -5506,6 +5506,17 @@
 		)
 		(uuid "9869d295-c9ce-4c26-84a7-b6f0295ba048")
 	)
+	(hierarchical_label "D_LED1"
+		(shape input)
+		(at 129.54 101.6 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "98f2ef5f-c6ec-47c0-8e93-f79673c5e317")
+	)
 	(hierarchical_label "D_TIM12_CH1"
 		(shape bidirectional)
 		(at 184.15 152.4 0)
@@ -5550,17 +5561,6 @@
 		)
 		(uuid "bb3aaaa0-e19f-4152-b01c-6a661d5b3deb")
 	)
-	(hierarchical_label "D_LED1"
-		(shape input)
-		(at 185.42 119.38 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "bd9b75e1-9155-4376-b752-c3cb873c9a36")
-	)
 	(hierarchical_label "D_PINIO1"
 		(shape input)
 		(at 185.42 129.54 0)
@@ -5594,9 +5594,9 @@
 		)
 		(uuid "c6a1b796-8766-4550-8e16-38b2fdee57d4")
 	)
-	(hierarchical_label "D_ADC2_CH12"
+	(hierarchical_label "D_ADC2_CH13"
 		(shape input)
-		(at 129.54 101.6 180)
+		(at 129.54 104.14 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5616,9 +5616,9 @@
 		)
 		(uuid "cf9839c1-ecf1-401b-9213-a5f54bd97b4c")
 	)
-	(hierarchical_label "D_ADC1_CH11"
+	(hierarchical_label "D_ADC1_CH10"
 		(shape input)
-		(at 129.54 99.06 180)
+		(at 129.54 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)

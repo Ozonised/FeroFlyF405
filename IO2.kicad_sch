@@ -5672,7 +5672,7 @@
 	)
 	(hierarchical_label "D_TIM1_CH2"
 		(shape bidirectional)
-		(at 48.26 63.5 180)
+		(at 49.53 38.1 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5694,7 +5694,7 @@
 	)
 	(hierarchical_label "D_TIM4_CH3"
 		(shape bidirectional)
-		(at 49.53 38.1 180)
+		(at 49.53 50.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5703,7 +5703,7 @@
 		)
 		(uuid "d4599427-ad8a-4743-870e-b3d334c58666")
 	)
-	(hierarchical_label "D_ADC2_CH12"
+	(hierarchical_label "D_ADC1_CH10"
 		(shape input)
 		(at 185.42 137.16 180)
 		(effects
@@ -5728,7 +5728,7 @@
 	)
 	(hierarchical_label "D_TIM4_CH4"
 		(shape bidirectional)
-		(at 49.53 50.8 180)
+		(at 48.26 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)

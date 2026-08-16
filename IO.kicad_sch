@@ -405,7 +405,7 @@
 		)
 		(uuid "7493b80f-bf51-4aa7-b21c-cf47d13165e5")
 	)
-	(hierarchical_label "D_ADC2_CH12"
+	(hierarchical_label "D_ADC1_CH10"
 		(shape input)
 		(at 195.58 132.08 180)
 		(effects
@@ -772,7 +772,7 @@
 				(justify left)
 			)
 		)
-		(pin "D_ADC2_CH12" input
+		(pin "D_ADC1_CH10" input
 			(at 201.93 124.46 270)
 			(uuid "d7d1281f-0463-47ed-8d46-e0ffb7e30c2e")
 			(effects

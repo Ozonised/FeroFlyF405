@@ -1272,7 +1272,7 @@
 				(justify left top)
 			)
 		)
-		(pin "D_ADC1_CH11" input
+		(pin "D_ADC2_CH13" input
 			(at 139.7 95.25 90)
 			(uuid "78104ab9-d8fd-46b0-9307-22f6c9a956ec")
 			(effects
@@ -1282,7 +1282,7 @@
 				(justify right)
 			)
 		)
-		(pin "D_ADC2_CH12" input
+		(pin "D_ADC1_CH10" input
 			(at 184.15 97.79 0)
 			(uuid "11dfdd7b-0c1c-492b-aa39-b47edcd5efcb")
 			(effects
@@ -1679,7 +1679,7 @@
 				(justify left top)
 			)
 		)
-		(pin "D_ADC1_CH11" input
+		(pin "D_ADC2_CH13" input
 			(at 97.79 60.96 0)
 			(uuid "39ba0116-e1fd-42cf-8e6b-3e3ab75c51a6")
 			(effects
@@ -1997,7 +1997,7 @@
 				(justify left)
 			)
 		)
-		(pin "D_ADC2_CH12" input
+		(pin "D_ADC1_CH10" input
 			(at 199.39 97.79 180)
 			(uuid "7304384d-408a-4cd5-9e37-296f490bc19a")
 			(effects
