@@ -65,7 +65,7 @@
           "min_thickness": 0.2,
           "pad_connection": 3,
           "remove_islands": 0,
-          "thermal_relief_gap": 0.5,
+          "thermal_relief_gap": 0.3,
           "thermal_relief_spoke_width": 0.5
         }
       },
@@ -683,7 +683,22 @@
     "meta": {
       "version": 5
     },
-    "net_colors": null,
+    "net_colors": {
+      "/IO/D_PINIO0": "rgb(255, 229, 191)",
+      "/IO/D_PINIO1": "rgb(255, 229, 191)",
+      "/MCU/D_BOOT0": "rgb(255, 229, 191)",
+      "/MCU/D_BOOT0R": "rgb(255, 229, 191)",
+      "/MCU/D_BOOT1": "rgb(255, 229, 191)",
+      "/MCU/D_LED0": "rgb(255, 229, 191)",
+      "/MCU/D_LED1": "rgb(255, 229, 191)",
+      "/MCU/D_NRST": "rgb(255, 229, 191)",
+      "/MCU/D_NRSTR": "rgb(255, 229, 191)",
+      "/Peripherals/CAN & LEDs/D_R_LED0": "rgb(255, 229, 191)",
+      "/Peripherals/CAN & LEDs/D_R_LED1": "rgb(255, 229, 191)",
+      "Net-(D201-K)": "rgb(255, 229, 191)",
+      "Net-(D202-A)": "rgb(255, 229, 191)",
+      "Net-(U601-Rs)": "rgb(255, 229, 191)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": [
       {
