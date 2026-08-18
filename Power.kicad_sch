@@ -3263,7 +3263,7 @@
 				)
 				(uuid "f3892d0f-281e-44d0-bf4d-1c0b3e2d4221")
 			)
-			(table_cell "VBAT+"
+			(table_cell "BAT+"
 				(exclude_from_sim no)
 				(at 96.52 158.75 0)
 				(size 19.05 2.54)
@@ -3297,7 +3297,7 @@
 				)
 				(uuid "6c067fa8-9ea5-452f-bf28-b590ffd60e92")
 			)
-			(table_cell "VBAT-"
+			(table_cell "BAT-"
 				(exclude_from_sim no)
 				(at 96.52 161.29 0)
 				(size 19.05 2.54)

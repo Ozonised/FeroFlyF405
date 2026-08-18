@@ -2401,7 +2401,7 @@
 				)
 				(uuid "b7edcb6c-ffdb-42ce-adc2-b1e7ebcb7fbc")
 			)
-			(table_cell "GND"
+			(table_cell "G"
 				(exclude_from_sim no)
 				(at 83.82 152.8724 0)
 				(size 19.05 2.54)
@@ -2435,7 +2435,7 @@
 				)
 				(uuid "bd49d2fc-17eb-465b-bbb4-46102bd5a8f7")
 			)
-			(table_cell "GND"
+			(table_cell "G"
 				(exclude_from_sim no)
 				(at 83.82 155.4124 0)
 				(size 19.05 2.54)

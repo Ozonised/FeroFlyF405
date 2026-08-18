@@ -5010,7 +5010,7 @@
 				)
 				(uuid "5e161151-369a-4744-9e6f-8cf5233e742d")
 			)
-			(table_cell "SWDIO"
+			(table_cell "DIO"
 				(exclude_from_sim no)
 				(at 252.095 87.63 0)
 				(size 14.605 2.54)
@@ -5027,7 +5027,7 @@
 				)
 				(uuid "682514fc-241d-4cf6-84d2-07a934c592e6")
 			)
-			(table_cell "SWCLK"
+			(table_cell "CLK"
 				(exclude_from_sim no)
 				(at 252.095 90.17 0)
 				(size 14.605 2.54)
@@ -5044,7 +5044,7 @@
 				)
 				(uuid "69f386b6-49aa-4544-a15f-c3b551ed7f98")
 			)
-			(table_cell "GND"
+			(table_cell "G"
 				(exclude_from_sim no)
 				(at 252.095 92.71 0)
 				(size 14.605 2.54)

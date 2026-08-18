@@ -4876,7 +4876,7 @@
 				)
 				(uuid "9ae20b14-ebbd-460f-bfec-8140542797d4")
 			)
-			(table_cell "S1"
+			(table_cell "1"
 				(exclude_from_sim no)
 				(at 118.4671 43.815 0)
 				(size 8.89 3.81)
@@ -4910,7 +4910,7 @@
 				)
 				(uuid "308b06f6-6c62-4843-9b8d-ca253913d0cf")
 			)
-			(table_cell "S2"
+			(table_cell "2"
 				(exclude_from_sim no)
 				(at 118.4671 47.625 0)
 				(size 8.89 3.81)
@@ -4944,7 +4944,7 @@
 				)
 				(uuid "af5a68b9-c844-4319-9617-33e1ce0c31d1")
 			)
-			(table_cell "S3"
+			(table_cell "3"
 				(exclude_from_sim no)
 				(at 118.4671 51.435 0)
 				(size 8.89 3.81)
@@ -4978,7 +4978,7 @@
 				)
 				(uuid "54066830-eba2-4241-a7c9-b0157adf713b")
 			)
-			(table_cell "S4"
+			(table_cell "4"
 				(exclude_from_sim no)
 				(at 118.4671 55.245 0)
 				(size 8.89 3.81)
@@ -5012,7 +5012,7 @@
 				)
 				(uuid "d092bb85-2f6f-4b6d-bf3d-5bee29f3935a")
 			)
-			(table_cell "S5"
+			(table_cell "5"
 				(exclude_from_sim no)
 				(at 118.4671 59.055 0)
 				(size 8.89 3.81)
@@ -5046,7 +5046,7 @@
 				)
 				(uuid "f51b86f3-4852-4fc3-9685-04684124d4f9")
 			)
-			(table_cell "S6"
+			(table_cell "6"
 				(exclude_from_sim no)
 				(at 118.4671 62.865 0)
 				(size 8.89 3.81)
@@ -5080,7 +5080,7 @@
 				)
 				(uuid "e4c1e668-a84c-4aa7-987e-f9edcb3c5a52")
 			)
-			(table_cell "S7"
+			(table_cell "7"
 				(exclude_from_sim no)
 				(at 118.4671 66.675 0)
 				(size 8.89 3.81)
@@ -5114,7 +5114,7 @@
 				)
 				(uuid "296f9bff-d102-4dfd-8f95-98723ec3e1b1")
 			)
-			(table_cell "S8"
+			(table_cell "8"
 				(exclude_from_sim no)
 				(at 118.4671 70.485 0)
 				(size 8.89 3.81)
@@ -5148,7 +5148,7 @@
 				)
 				(uuid "c8c486ec-2d6f-4836-8099-7ad5eeba1eee")
 			)
-			(table_cell "S9"
+			(table_cell "9"
 				(exclude_from_sim no)
 				(at 118.4671 74.295 0)
 				(size 8.89 3.81)
@@ -5182,7 +5182,7 @@
 				)
 				(uuid "2740e230-3106-41d4-b3cd-51ea3bd1bea5")
 			)
-			(table_cell "S10"
+			(table_cell "10"
 				(exclude_from_sim no)
 				(at 118.4671 78.105 0)
 				(size 8.89 3.81)
@@ -5216,7 +5216,7 @@
 				)
 				(uuid "37944a16-34c9-4520-95a3-864aec40fe1d")
 			)
-			(table_cell "S11"
+			(table_cell "11"
 				(exclude_from_sim no)
 				(at 118.4671 81.915 0)
 				(size 8.89 3.81)
@@ -5250,7 +5250,7 @@
 				)
 				(uuid "4c199e99-b2ff-4f17-98d8-dfddbbe2e577")
 			)
-			(table_cell "S12"
+			(table_cell "12"
 				(exclude_from_sim no)
 				(at 118.4671 85.725 0)
 				(size 8.89 3.81)
@@ -5325,7 +5325,7 @@
 				)
 				(uuid "5e161151-369a-4744-9e6f-8cf5233e742d")
 			)
-			(table_cell "GND"
+			(table_cell "G"
 				(exclude_from_sim no)
 				(at 225.425 146.685 0)
 				(size 14.605 2.54)
@@ -5359,7 +5359,7 @@
 				)
 				(uuid "69f386b6-49aa-4544-a15f-c3b551ed7f98")
 			)
-			(table_cell "GND"
+			(table_cell "G"
 				(exclude_from_sim no)
 				(at 225.425 151.765 0)
 				(size 14.605 2.54)
