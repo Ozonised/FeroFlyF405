@@ -743,7 +743,7 @@
       },
       {
         "netclass": "CAN",
-        "pattern": "/Peripherals/CAN & LEDs/CAN+"
+        "pattern": "/Peripherals/CAN & LEDs/CAN+*"
       },
       {
         "netclass": "CAN",
@@ -782,7 +782,7 @@
         "pattern": "/MCU/D_CAN*"
       },
       {
-        "netclass": "CAN",
+        "netclass": "HDR",
         "pattern": "/Peripherals/CAN & LEDs/D_CAN*"
       }
     ]
