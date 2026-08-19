@@ -78,12 +78,12 @@
       ],
       "drc_exclusions": [
         [
-          "lib_footprint_mismatch|140507500|87607500|0b911645-167b-4880-b848-95fd268ef185|00000000-0000-0000-0000-000000000000",
-          "Footprint edited to prevent silkscreen clipping"
+          "lib_footprint_mismatch|135507500|103857500|0b911645-167b-4880-b848-95fd268ef185|00000000-0000-0000-0000-000000000000",
+          "altered to avoid silkscreen clipping and clearance issue"
         ],
         [
-          "lib_footprint_mismatch|173640000|70300000|161b866f-1e4f-4a72-9b80-5aadd366334e|00000000-0000-0000-0000-000000000000",
-          "Footprint updated to fix copper to hole clearance"
+          "lib_footprint_mismatch|168640000|86550000|161b866f-1e4f-4a72-9b80-5aadd366334e|00000000-0000-0000-0000-000000000000",
+          "altered to prevent to copper to hole clearance issue"
         ]
       ],
       "meta": {
