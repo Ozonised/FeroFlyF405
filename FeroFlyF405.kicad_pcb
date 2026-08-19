@@ -11,6 +11,9 @@
 		(title "FeroFlyF405")
 		(date "2026-07-22")
 		(rev "1")
+		(comment 2 "LICENSE: CERN-OHL-S-2.0")
+		(comment 3 "Github: https://github.com/Ozonised/FeroFlyF405")
+		(comment 4 "Designed by: Farhan Khan")
 	)
 	(layers
 		(0 "F.Cu" signal)
