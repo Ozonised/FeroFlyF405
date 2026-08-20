@@ -686,6 +686,10 @@
     "net_colors": {
       "/IO/D_PINIO0": "rgb(255, 229, 191)",
       "/IO/D_PINIO1": "rgb(255, 229, 191)",
+      "/IO/IO1/D_PINIO0R": "rgb(255, 229, 191)",
+      "/IO/IO1/D_PINIO1R": "rgb(255, 229, 191)",
+      "/IO/IO2/D_CC1A": "rgb(255, 229, 191)",
+      "/IO/IO2/D_CC1B": "rgb(255, 229, 191)",
       "/MCU/D_BOOT0": "rgb(255, 229, 191)",
       "/MCU/D_BOOT0R": "rgb(255, 229, 191)",
       "/MCU/D_BOOT1": "rgb(255, 229, 191)",
