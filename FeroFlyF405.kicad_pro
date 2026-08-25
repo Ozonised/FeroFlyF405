@@ -797,7 +797,7 @@
       "netlist": "",
       "plot": "Gerbers",
       "specctra_dsn": "",
-      "step": "",
+      "step": "FeroFlyF405.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
