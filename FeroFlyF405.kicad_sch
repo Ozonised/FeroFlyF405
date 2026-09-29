@@ -1543,7 +1543,7 @@
 				(justify left)
 			)
 		)
-		(pin "D_TIM5_CH1" bidirectional
+		(pin "D_TIM5_CH2" bidirectional
 			(at 151.13 142.24 270)
 			(uuid "8e2b692d-88e6-4a59-9cf0-615bccb29e18")
 			(effects
@@ -1928,7 +1928,7 @@
 				(justify left)
 			)
 		)
-		(pin "D_TIM5_CH1" bidirectional
+		(pin "D_TIM5_CH2" bidirectional
 			(at 236.22 142.24 270)
 			(uuid "ee66a4e0-baf6-4146-8f36-98d5bf36fbfb")
 			(effects

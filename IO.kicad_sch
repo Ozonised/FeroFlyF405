@@ -373,7 +373,7 @@
 		)
 		(uuid "5ef7bab0-8d58-4b30-accd-063c73493b91")
 	)
-	(hierarchical_label "D_TIM5_CH1"
+	(hierarchical_label "D_TIM5_CH2"
 		(shape bidirectional)
 		(at 171.45 110.49 180)
 		(effects

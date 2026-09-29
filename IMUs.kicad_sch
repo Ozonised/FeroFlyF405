@@ -425,7 +425,7 @@
 				)
 			)
 			(property "Description" "Unpolarized capacitor, small symbol"
-				(at 0 0 0)
+				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -475,7 +475,7 @@
 						(xy -1.524 -0.508) (xy 1.524 -0.508)
 					)
 					(stroke
-						(width 0.3302)
+						(width 0.3048)
 						(type default)
 					)
 					(fill
@@ -2784,7 +2784,7 @@
 		(fields_autoplaced yes)
 		(uuid "50bc12aa-8f9a-4f9b-b2d9-7299a935ae70")
 		(property "Reference" "C502"
-			(at 111.76 72.3962 0)
+			(at 111.76 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2795,7 +2795,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 111.76 74.9362 0)
+			(at 111.76 74.9299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2828,7 +2828,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 109.22 73.66 0)
+			(at 109.22 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2976,7 +2976,7 @@
 		(fields_autoplaced yes)
 		(uuid "5b0ffb06-b062-4feb-949f-55ca0421bbfd")
 		(property "Reference" "C503"
-			(at 207.01 71.1262 0)
+			(at 207.01 71.1199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2987,7 +2987,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 207.01 73.6662 0)
+			(at 207.01 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3020,7 +3020,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 204.47 72.39 0)
+			(at 204.47 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4667,7 +4667,7 @@
 		(fields_autoplaced yes)
 		(uuid "d621e954-2bef-46f6-a896-69206058b090")
 		(property "Reference" "C501"
-			(at 81.28 72.3962 0)
+			(at 81.28 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4678,7 +4678,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 81.28 74.9362 0)
+			(at 81.28 74.9299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4711,7 +4711,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 78.74 73.66 0)
+			(at 78.74 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4958,7 +4958,7 @@
 		(fields_autoplaced yes)
 		(uuid "e1827d1d-3a8a-4729-a591-fd28614ed330")
 		(property "Reference" "C504"
-			(at 237.49 71.1262 0)
+			(at 237.49 71.1199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4969,7 +4969,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 237.49 73.6662 0)
+			(at 237.49 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5002,7 +5002,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 234.95 72.39 0)
+			(at 234.95 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

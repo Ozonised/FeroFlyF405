@@ -762,7 +762,7 @@
 				)
 			)
 			(property "Description" "Unpolarized capacitor, small symbol"
-				(at 0 0 0)
+				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -812,7 +812,7 @@
 						(xy -1.524 -0.508) (xy 1.524 -0.508)
 					)
 					(stroke
-						(width 0.3302)
+						(width 0.3048)
 						(type default)
 					)
 					(fill
@@ -5012,7 +5012,7 @@
 		(fields_autoplaced yes)
 		(uuid "612daa53-8ef8-4e91-bf67-551d24a29926")
 		(property "Reference" "C803"
-			(at 60.96 96.5262 0)
+			(at 60.96 96.5199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5023,7 +5023,7 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 60.96 99.0662 0)
+			(at 60.96 99.0599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5055,8 +5055,8 @@
 				)
 			)
 		)
-		(property "Description" "Ceramic Capacitor, Ceramic, 16V, 20% +Tol, 20% -Tol, X7R, 15% TC, 2.2uF, Surface Mount, 0805"
-			(at 58.42 97.79 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 58.42 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5362,7 +5362,7 @@
 		(fields_autoplaced yes)
 		(uuid "9186d419-f1e6-48f8-b9ae-996bc6b552fb")
 		(property "Reference" "C801"
-			(at 63.5 36.8362 0)
+			(at 63.5 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5373,7 +5373,7 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 63.5 39.3762 0)
+			(at 63.5 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5405,8 +5405,8 @@
 				)
 			)
 		)
-		(property "Description" "Ceramic Capacitor, Ceramic, 16V, 20% +Tol, 20% -Tol, X7R, 15% TC, 2.2uF, Surface Mount, 0805"
-			(at 60.96 38.1 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 60.96 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5714,7 +5714,7 @@
 		(fields_autoplaced yes)
 		(uuid "a1bf894e-92e6-4cf7-9919-65748f3d3600")
 		(property "Reference" "C805"
-			(at 60.96 154.9462 0)
+			(at 60.96 154.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5725,7 +5725,7 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 60.96 157.4862 0)
+			(at 60.96 157.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5757,8 +5757,8 @@
 				)
 			)
 		)
-		(property "Description" "Ceramic Capacitor, Ceramic, 16V, 20% +Tol, 20% -Tol, X7R, 15% TC, 2.2uF, Surface Mount, 0805"
-			(at 58.42 156.21 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 58.42 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6253,7 +6253,7 @@
 		(fields_autoplaced yes)
 		(uuid "d52a6c18-ebf2-4ae2-8340-8cc157972e9f")
 		(property "Reference" "C804"
-			(at 215.9 96.5262 0)
+			(at 215.9 96.5199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6264,7 +6264,7 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 215.9 99.0662 0)
+			(at 215.9 99.0599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6296,8 +6296,8 @@
 				)
 			)
 		)
-		(property "Description" "Ceramic Capacitor, Ceramic, 16V, 20% +Tol, 20% -Tol, X7R, 15% TC, 2.2uF, Surface Mount, 0805"
-			(at 213.36 97.79 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 213.36 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6534,7 +6534,7 @@
 		(fields_autoplaced yes)
 		(uuid "f526c3c4-3914-41a1-ba18-1372686beecf")
 		(property "Reference" "C802"
-			(at 215.9 40.6462 0)
+			(at 215.9 40.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6545,7 +6545,7 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 215.9 43.1862 0)
+			(at 215.9 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6577,8 +6577,8 @@
 				)
 			)
 		)
-		(property "Description" "Ceramic Capacitor, Ceramic, 16V, 20% +Tol, 20% -Tol, X7R, 15% TC, 2.2uF, Surface Mount, 0805"
-			(at 213.36 41.91 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 213.36 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

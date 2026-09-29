@@ -962,7 +962,7 @@
 				)
 			)
 			(property "Description" "Unpolarized capacitor, small symbol"
-				(at 0 0 0)
+				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -1012,7 +1012,7 @@
 						(xy -1.524 -0.508) (xy 1.524 -0.508)
 					)
 					(stroke
-						(width 0.3302)
+						(width 0.3048)
 						(type default)
 					)
 					(fill
@@ -5979,7 +5979,7 @@
 		(fields_autoplaced yes)
 		(uuid "161ec16d-c8a6-493d-ab7b-3b9c91a5a4f1")
 		(property "Reference" "C902"
-			(at 256.54 48.2662 0)
+			(at 256.54 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5990,7 +5990,7 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 256.54 50.8062 0)
+			(at 256.54 50.7999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6022,8 +6022,8 @@
 				)
 			)
 		)
-		(property "Description" "Ceramic Capacitor, Ceramic, 16V, 20% +Tol, 20% -Tol, X7R, 15% TC, 2.2uF, Surface Mount, 0805"
-			(at 254 49.53 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 254 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7103,7 +7103,7 @@
 		(fields_autoplaced yes)
 		(uuid "40563515-6670-4cdb-bbca-8277eccfa3fe")
 		(property "Reference" "C901"
-			(at 246.38 48.2662 0)
+			(at 246.38 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7114,7 +7114,7 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 246.38 50.8062 0)
+			(at 246.38 50.7999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7146,8 +7146,8 @@
 				)
 			)
 		)
-		(property "Description" "Ceramic Capacitor, Ceramic, 16V, 20% +Tol, 20% -Tol, X7R, 15% TC, 2.2uF, Surface Mount, 0805"
-			(at 243.84 49.53 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 243.84 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9760,7 +9760,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 190.5 140.97 0)
+			(at 190.5 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11638,7 +11638,7 @@
 		(fields_autoplaced yes)
 		(uuid "fb309256-0941-42b1-91a6-80ed1e4a1f49")
 		(property "Reference" "C903"
-			(at 194.31 125.7362 0)
+			(at 194.31 125.7299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11649,7 +11649,7 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 194.31 128.2762 0)
+			(at 194.31 128.2699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11681,8 +11681,8 @@
 				)
 			)
 		)
-		(property "Description" "Ceramic Capacitor, Ceramic, 16V, 20% +Tol, 20% -Tol, X7R, 15% TC, 2.2uF, Surface Mount, 0805"
-			(at 191.77 127 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 191.77 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
