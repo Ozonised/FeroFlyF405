@@ -2,7 +2,7 @@
 ![FeroFlyF405.jpg](/FeroFlyF405.jpg)
 FeroFlyF405 is an opensource flight controller based on STM32F405 and runs the open source flight controller firmware, [INAV](https://github.com/iNavFlight/inav).
 
-FeroFly405 is designed to be an open hardware platform that enthusiasts and developers can study, modify, build, and use in their own projects.
+FeroFlyF405 is designed to be an open hardware platform that enthusiasts and developers can study, modify, build, and use in their own projects.
 
 ## Features
 
@@ -19,7 +19,7 @@ FeroFly405 is designed to be an open hardware platform that enthusiasts and deve
 
 ## Sponsor
 
-A special thanks to **[NextPCB](https://www.nextpcb.com/)** for sponsoring the FeroFly405 project and supporting the development of this open-source flight controller.
+A special thanks to **[NextPCB](https://www.nextpcb.com/)** for sponsoring the FeroFlyF405 project and supporting the development of this open-source flight controller.
 
 Their support helped bring the custom PCB design from the screen to the physical board.
 
@@ -42,32 +42,24 @@ Get high quality PCBs for your project at an affordable rate from **[NextPCB](ht
 
 ## Connectors and Pinout
 
-FeroFly405 follows the **Pixhawk connector and pinout standard** for its applicable peripheral interfaces and uses **JST-GH series connectors**.
+FeroFlyF405 follows the **Pixhawk connector and pinout standard** for its applicable peripheral interfaces and uses **JST-GH series connectors**.
 
 The PINIO and current-sensor connectors are exceptions to this convention.
 
 ## Firmware
 
-FeroFly405 runs [INAV](https://github.com/iNavFlight/inav), an open-source flight control firmware for multirotor, fixed-wing, and other UAV platforms.
+FeroFlyF405 runs [INAV](https://github.com/iNavFlight/inav), an open-source flight control firmware for multirotor, fixed-wing, and other UAV platforms.
 
-INAV provides features including:
-
-* Flight stabilization
-* Navigation and positioning
-* Configurable motor and servo outputs
-* Telemetry and peripheral integration
-* Support for compatible sensors and communication interfaces
-
-FeroFly405 uses a board-specific INAV target to configure its MCU pins, sensors, timers, communication interfaces, and other hardware resources.
+FeroFlyF405 uses a board-specific INAV target to configure its MCU pins, sensors, timers, communication interfaces, and other hardware resources.
 
 Useful links:
-
+* [FeroFlyF405 Target & Binary](https://github.com/Ozonised/FeroFlyF405-INAV-files)
 * [INAV source code](https://github.com/iNavFlight/inav)
 * [INAV documentation](https://inavflight.github.io/)
 
 ## 3D-Printed Enclosure
 
-The FeroFly405 enclosure consists of three 3D-printable parts:
+The FeroFlyF405 enclosure consists of three 3D-printable parts:
 
 * **Enclosure Top** (`FeroFlyF405 Enclosure-Top.stl`) — Upper section of the enclosure.
 * **Enclosure Bottom** (`FeroFlyF405 Enclosure-Bottom.stl`) — Lower section of the enclosure.
