@@ -65,3 +65,18 @@ Useful links:
 * [INAV source code](https://github.com/iNavFlight/inav)
 * [INAV documentation](https://inavflight.github.io/)
 
+## 3D-Printed Enclosure
+
+The FeroFly405 enclosure consists of three 3D-printable parts:
+
+* **Enclosure Top** (`FeroFlyF405 Enclosure-Top.stl`) — Upper section of the enclosure.
+* **Enclosure Bottom** (`FeroFlyF405 Enclosure-Bottom.stl`) — Lower section of the enclosure.
+* **LED Cap** (`FeroFlyF405 Enclosure-Led Cap.stl`) — Cover for the status and power LEDs, designed to be printed using translucent filament to allow the LED light to pass through.
+
+### Printing Recommendations
+
+* **Top and Bottom:** PETG filament is recommended for durability and heat resistance.
+* **LED Cap:** Use translucent filament for better LED visibility.
+* **Fasteners:** The enclosure uses M3 screws and threaded inserts.
+
+The STL files are provided so you can print and assemble the enclosure yourself.
