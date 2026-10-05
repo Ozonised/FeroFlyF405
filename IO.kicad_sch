@@ -7,7 +7,7 @@
 	(title_block
 		(title "FeroFlyF405")
 		(date "2026-07-22")
-		(rev "1")
+		(rev "1.1")
 		(comment 2 "LICENSE: CERN-OHL-S-2.0 ")
 		(comment 3 "GitHub: https://github.com/Ozonised/FeroFlyF405")
 		(comment 4 "Designed by: Farhan Khan")
@@ -296,7 +296,7 @@
 		)
 		(uuid "fe1c121f-0022-48e0-b92a-0e10d1d44312")
 	)
-	(hierarchical_label "D_TIM4_CH4"
+	(hierarchical_label "D_TIM1_CH3"
 		(shape bidirectional)
 		(at 171.45 107.95 180)
 		(effects
@@ -713,7 +713,7 @@
 				(justify left)
 			)
 		)
-		(pin "D_TIM4_CH4" bidirectional
+		(pin "D_TIM1_CH3" bidirectional
 			(at 179.07 107.95 180)
 			(uuid "10aa2f06-c7e4-4bc2-a22d-625aa1d49993")
 			(effects

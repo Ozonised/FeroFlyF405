@@ -7,7 +7,7 @@
 	(title_block
 		(title "FeroFlyF405")
 		(date "2026-07-22")
-		(rev "1")
+		(rev "1.1")
 		(comment 2 "LICENSE: CERN-OHL-S-2.0 ")
 		(comment 3 "GitHub: https://github.com/Ozonised/FeroFlyF405")
 		(comment 4 "Designed by: Farhan Khan")
@@ -3186,16 +3186,16 @@
 		(uuid "69b49817-5ac8-4423-9e81-31f58846b712")
 	)
 	(no_connect
-		(at 175.26 99.06)
-		(uuid "737a5940-99c9-411f-b3dc-35096f2e9f65")
-	)
-	(no_connect
 		(at 134.62 101.6)
 		(uuid "861ce29c-3331-4f1b-b842-ac7d53e589b1")
 	)
 	(no_connect
 		(at 175.26 124.46)
 		(uuid "c0ba080a-b791-4911-8f7a-b57e6502cf67")
+	)
+	(no_connect
+		(at 175.26 139.7)
+		(uuid "c552dd1c-4f1d-48ae-b569-89b199c41bbb")
 	)
 	(no_connect
 		(at 175.26 116.84)
@@ -3564,6 +3564,16 @@
 			(type default)
 		)
 		(uuid "2f639d17-f10a-41cb-a385-ca919e36d038")
+	)
+	(wire
+		(pts
+			(xy 175.26 99.06) (xy 185.42 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3391f1ac-373a-4f6d-adb4-98d27759b6c2")
 	)
 	(wire
 		(pts
@@ -4344,16 +4354,6 @@
 			(type default)
 		)
 		(uuid "9376e6f0-8328-48a4-a263-6466425c239b")
-	)
-	(wire
-		(pts
-			(xy 175.26 139.7) (xy 185.42 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95d368e1-9a76-4c6a-bd6e-103c618a589e")
 	)
 	(wire
 		(pts
@@ -5392,9 +5392,9 @@
 		)
 		(uuid "107d586d-da39-4145-92e5-14ffcb12fb19")
 	)
-	(hierarchical_label "D_TIM4_CH4"
+	(hierarchical_label "D_TIM1_CH3"
 		(shape bidirectional)
-		(at 185.42 139.7 0)
+		(at 185.42 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)

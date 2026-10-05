@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "10.0.5"
+      "Version": "10.0.6"
     },
-    "CreationDate": "2026-08-20T20:39:14+05:30"
+    "CreationDate": "2026-10-05T13:13:49+05:30"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "FeroFlyF405",
       "GUID": "4665726f-466c-4794-9634-30352e6b6963",
-      "Revision": "1"
+      "Revision": "1.1"
     },
     "Size": {
       "X": 50.05,
