@@ -4,6 +4,8 @@ FeroFlyF405 is an opensource flight controller based on STM32F405 and runs the o
 
 FeroFlyF405 is designed to be an open hardware platform that enthusiasts and developers can study, modify, build, and use in their own projects.
 
+For those interested in the design process, watch the [YouTube](https://youtu.be/mWAzVRxgooY) video.
+
 ## Features
 
 * **Microcontroller:** STM32F405
