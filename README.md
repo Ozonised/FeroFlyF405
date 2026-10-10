@@ -21,7 +21,7 @@ For those interested in the design process, watch the [YouTube](https://youtu.be
 
 ## Sponsor
 
-A special thanks to **[NextPCB](https://www.nextpcb.com/)** for sponsoring the FeroFlyF405 project and supporting the development of this open-source flight controller.
+A special thanks to **[NextPCB](https://www.nextpcb.com/?code=ozonised)** for sponsoring the FeroFlyF405 project and supporting the development of this open-source flight controller.
 
 Their support helped bring the custom PCB design from the screen to the physical board.
 
