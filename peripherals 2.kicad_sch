@@ -3289,17 +3289,6 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" ""
-			(at 121.92 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "MPN" "ESDCAN01-2BLY"
 			(at 121.92 102.87 0)
 			(hide yes)
@@ -3429,17 +3418,6 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" ""
-			(at 121.92 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "a171d933-9162-4301-81ea-937201c70667")
 		)
@@ -3512,17 +3490,6 @@
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
 			(at 110.49 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MANUFACTURER" ""
-			(at 105.41 87.63 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3625,17 +3592,6 @@
 			)
 		)
 		(property "Manufacturer" "Bourns"
-			(at 236.22 96.52 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MANUFACTURER" ""
 			(at 236.22 96.52 90)
 			(hide yes)
 			(show_name no)
@@ -3828,17 +3784,6 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" ""
-			(at 63.5 93.98 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "4245d88e-196a-4c6b-8c83-d6de80fd9873")
 		)
@@ -3952,17 +3897,6 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 224.79 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MANUFACTURER" ""
 			(at 224.79 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -4234,17 +4168,6 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" ""
-			(at 140.97 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "5d5c73af-9009-4752-b936-b85c922c2e06")
 		)
@@ -4326,17 +4249,6 @@
 			)
 		)
 		(property "Description" "CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities, SOIC-8"
-			(at 85.09 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MANUFACTURER" ""
 			(at 85.09 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -4490,17 +4402,6 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" ""
-			(at 68.58 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "e6330099-262f-4d5e-8dce-f45abc6d6d6b")
 		)
@@ -4594,17 +4495,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK"
-			(at 67.31 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MANUFACTURER" ""
 			(at 67.31 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -4709,17 +4599,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK"
-			(at 76.2 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MANUFACTURER" ""
 			(at 76.2 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -5009,17 +4888,6 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" ""
-			(at 224.79 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "575956a3-bb34-44cf-a517-6c3e4a487371")
 		)
@@ -5113,17 +4981,6 @@
 			)
 		)
 		(property "Manufacturer" "Bourns"
-			(at 236.22 87.63 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MANUFACTURER" ""
 			(at 236.22 87.63 90)
 			(hide yes)
 			(show_name no)
