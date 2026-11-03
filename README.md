@@ -25,9 +25,10 @@ A special thanks to **[NextPCB](https://www.nextpcb.com/?code=ozonised)** for sp
 
 Their support helped bring the custom PCB design from the screen to the physical board.
 
-Thank you, NextPCB, for supporting open-source hardware development!
-
 Get high quality PCBs for your project at an affordable rate from **[NextPCB](https://www.nextpcb.com/)**.
+
+## Download
+Grab the gerbers and kicad file for the latest stable version from the **[release](https://github.com/Ozonised/FeroFlyF405/releases)** tab.
 
 ## Connectivity
 
