@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "pin_header_01x03") (type "KiCad") (uri "${KIPRJMOD}/Lib/pin_header_01x03.pretty") (options "") (descr ""))
 	(lib (name "NextPCB-Logo") (type "KiCad") (uri "${KIPRJMOD}/Lib/NextPCB-Logo") (options "") (descr ""))
+	(lib (name "Amphenol 12402012E212A") (type "KiCad") (uri "${KIPRJMOD}/Lib/Amphenol 12402012E212A.pretty") (options "") (descr ""))
 )

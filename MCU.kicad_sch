@@ -2669,6 +2669,145 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:+4V"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "+4V"
+				(at 0 3.556 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+4V\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "+4V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+4V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power global)
 			(pin_numbers
@@ -2835,7 +2974,7 @@
 	)
 	(text "RESET"
 		(exclude_from_sim no)
-		(at 50.546 109.728 0)
+		(at 52.07 63.5 0)
 		(effects
 			(font
 				(face "Adwaita Sans")
@@ -2905,7 +3044,7 @@
 	)
 	(text "BOOT"
 		(exclude_from_sim no)
-		(at 50.038 64.008 0)
+		(at 52.578 108.204 0)
 		(effects
 			(font
 				(face "Adwaita Sans")
@@ -3255,7 +3394,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 149.86) (xy 184.15 149.86)
+			(xy 175.26 149.86) (xy 185.42 149.86)
 		)
 		(stroke
 			(width 0)
@@ -4055,7 +4194,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 147.32) (xy 194.31 147.32)
+			(xy 175.26 147.32) (xy 185.42 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4122,16 +4261,6 @@
 			(type default)
 		)
 		(uuid "7ec41195-664c-45e2-97d0-26a096cf3a23")
-	)
-	(wire
-		(pts
-			(xy 189.23 149.86) (xy 194.31 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82d95dfb-595d-48c1-8dc0-93b32b437807")
 	)
 	(wire
 		(pts
@@ -4355,7 +4484,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 152.4) (xy 184.15 152.4)
+			(xy 175.26 152.4) (xy 185.42 152.4)
 		)
 		(stroke
 			(width 0)
@@ -4795,7 +4924,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 154.94) (xy 184.15 154.94)
+			(xy 175.26 154.94) (xy 185.42 154.94)
 		)
 		(stroke
 			(width 0)
@@ -5168,16 +5297,6 @@
 		)
 		(uuid "8c046f5b-469b-4c67-902b-94845f0a2bf9")
 	)
-	(label "D_CAN2TXR"
-		(at 175.26 149.86 0)
-		(effects
-			(font
-				(size 0.889 0.889)
-			)
-			(justify left bottom)
-		)
-		(uuid "9cf227c9-d3fd-442a-baa4-f4ab35f475a1")
-	)
 	(label "D_NRSTR"
 		(at 49.53 73.66 0)
 		(effects
@@ -5296,7 +5415,7 @@
 	)
 	(hierarchical_label "D_CAN2TX"
 		(shape output)
-		(at 194.31 149.86 0)
+		(at 185.42 149.86 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5439,7 +5558,7 @@
 	)
 	(hierarchical_label "D_TIM12_CH1"
 		(shape bidirectional)
-		(at 184.15 152.4 0)
+		(at 185.42 152.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5516,7 +5635,7 @@
 	)
 	(hierarchical_label "D_TIM12_CH2"
 		(shape bidirectional)
-		(at 184.15 154.94 0)
+		(at 185.42 154.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5626,7 +5745,7 @@
 	)
 	(hierarchical_label "D_CAN2RX"
 		(shape input)
-		(at 194.31 147.32 0)
+		(at 185.42 147.32 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6448,109 +6567,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 186.69 149.86 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3f0f5576-0028-4102-8a9e-be376413bce0")
-		(property "Reference" "R312"
-			(at 188.722 149.098 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "22"
-			(at 185.166 149.86 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 186.69 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 186.69 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 186.69 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "CR0603-FX-22R0ELF"
-			(at 186.69 149.86 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 186.69 149.86 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "edd681a5-7fba-46cd-8e61-54b59fbaac35")
-		)
-		(pin "2"
-			(uuid "9f9f050d-f14d-4704-91fc-3130f68d0ba6")
-		)
-		(instances
-			(project "FeroFlyF405"
-				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/5f464b6b-c1a5-4802-8c09-16302411334a"
-					(reference "R312")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 234.95 71.12 0)
 		(unit 1)
@@ -6828,83 +6844,6 @@
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/5f464b6b-c1a5-4802-8c09-16302411334a"
 					(reference "C304")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 217.17 119.38 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "65c58581-f761-4876-9096-5676c8d857d5")
-		(property "Reference" "#PWR0312"
-			(at 217.17 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 216.662 115.57 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 217.17 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 217.17 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 217.17 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a46c2c8a-8614-407e-8272-409304d1ded2")
-		)
-		(instances
-			(project "FeroFlyF405"
-				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/5f464b6b-c1a5-4802-8c09-16302411334a"
-					(reference "#PWR0312")
 					(unit 1)
 				)
 			)
@@ -7235,7 +7174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 100.33 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -7379,6 +7318,83 @@
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/5f464b6b-c1a5-4802-8c09-16302411334a"
 					(reference "#PWR0315")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+4V")
+		(at 217.17 119.38 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8bf5bb25-3e54-4cdc-b643-1945e39d6ff3")
+		(property "Reference" "#PWR0312"
+			(at 217.17 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+4V5"
+			(at 216.408 115.57 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 217.17 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+4V\""
+			(at 217.17 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3291ce01-ce3a-4aae-90ac-7b7f7dc6caf7")
+		)
+		(instances
+			(project "FeroFlyF405"
+				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/5f464b6b-c1a5-4802-8c09-16302411334a"
+					(reference "#PWR0312")
 					(unit 1)
 				)
 			)
@@ -8562,7 +8578,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 91.44 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -9463,7 +9479,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 118.11 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -10160,7 +10176,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 125.73 147.32 0)
 			(hide yes)
 			(show_name no)

@@ -2077,16 +2077,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 93.98) (xy 74.93 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "165a62c1-c98a-4287-a8e2-85f1941d7ca0")
-	)
-	(wire
-		(pts
 			(xy 121.92 81.28) (xy 132.08 81.28)
 		)
 		(stroke
@@ -2137,7 +2127,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 93.98) (xy 60.96 93.98)
+			(xy 58.42 93.98) (xy 74.93 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2810,16 +2800,6 @@
 		)
 		(uuid "52d1f4c6-ece1-45d7-aa9a-8aa9d01b710f")
 	)
-	(label "D_CANR"
-		(at 69.85 93.98 0)
-		(effects
-			(font
-				(size 0.762 0.762)
-			)
-			(justify left bottom)
-		)
-		(uuid "6413f644-f5da-43d1-b579-2e36c086566e")
-	)
 	(label "CAN-"
 		(at 96.52 96.52 0)
 		(effects
@@ -2895,7 +2875,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00ebb992-074e-4ca4-b899-2580ea15c084")
-		(property "Reference" "R605"
+		(property "Reference" "R602"
 			(at 115.57 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2981,7 +2961,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "R605")
+					(reference "R602")
 					(unit 1)
 				)
 			)
@@ -2999,7 +2979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ed31c4d-18eb-44ba-ac4e-171d09ea7508")
-		(property "Reference" "#PWR0608"
+		(property "Reference" "#PWR0607"
 			(at 140.97 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -3060,7 +3040,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "#PWR0608")
+					(reference "#PWR0607")
 					(unit 1)
 				)
 			)
@@ -3078,7 +3058,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39b6ae3a-9d1f-4e4d-9ba1-598e5f25a7b5")
-		(property "Reference" "#PWR0606"
+		(property "Reference" "#PWR0604"
 			(at 121.92 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -3139,7 +3119,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "#PWR0606")
+					(reference "#PWR0604")
 					(unit 1)
 				)
 			)
@@ -3156,7 +3136,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4c2dd783-2ec8-4aa7-b720-5de61edbc36b")
-		(property "Reference" "#PWR0607"
+		(property "Reference" "#PWR0602"
 			(at 132.08 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -3216,7 +3196,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "#PWR0607")
+					(reference "#PWR0602")
 					(unit 1)
 				)
 			)
@@ -3341,7 +3321,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68b730c2-f360-48f0-8ac2-f3645cae3db9")
-		(property "Reference" "C602"
+		(property "Reference" "C603"
 			(at 124.46 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3363,7 +3343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 121.92 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -3427,7 +3407,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "C602")
+					(reference "C603")
 					(unit 1)
 				)
 			)
@@ -3525,7 +3505,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7cde4a45-ef4a-48e6-ae92-f575b0e8963b")
-		(property "Reference" "R602"
+		(property "Reference" "R603"
 			(at 234.188 94.488 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3611,7 +3591,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "R602")
+					(reference "R603")
 					(unit 1)
 				)
 			)
@@ -3629,7 +3609,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7dc53edb-d9ca-40fb-83fa-b909b684bdd1")
-		(property "Reference" "#PWR0602"
+		(property "Reference" "#PWR0608"
 			(at 85.09 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -3690,110 +3670,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "#PWR0602")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 63.5 93.98 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "7eb671bd-122e-4ede-bfc6-20369941bae9")
-		(property "Reference" "R604"
-			(at 65.532 93.218 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "22"
-			(at 62.484 93.98 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 63.5 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 63.5 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 63.5 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "CR0603-FX-22R0ELF"
-			(at 63.5 93.98 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 63.5 93.98 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4245d88e-196a-4c6b-8c83-d6de80fd9873")
-		)
-		(pin "2"
-			(uuid "55d9f4e1-c977-43a2-8a5e-c6b722126ee5")
-		)
-		(instances
-			(project "FeroFlyF405"
-				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "R604")
+					(reference "#PWR0608")
 					(unit 1)
 				)
 			)
@@ -3934,7 +3811,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e1e2b35-a42e-48d6-938f-2eb0f27d6d41")
-		(property "Reference" "#PWR0605"
+		(property "Reference" "#PWR0606"
 			(at 132.08 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -3995,7 +3872,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "#PWR0605")
+					(reference "#PWR0606")
 					(unit 1)
 				)
 			)
@@ -4013,7 +3890,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a31bf1ef-b33c-4d65-ad6d-19998fb36926")
-		(property "Reference" "#PWR0604"
+		(property "Reference" "#PWR0603"
 			(at 67.31 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -4074,7 +3951,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "#PWR0604")
+					(reference "#PWR0603")
 					(unit 1)
 				)
 			)
@@ -4325,7 +4202,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c0361f38-28ee-41cb-a730-5f05306d7217")
-		(property "Reference" "R603"
+		(property "Reference" "R604"
 			(at 69.85 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4411,7 +4288,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "R603")
+					(reference "R604")
 					(unit 1)
 				)
 			)
@@ -4428,7 +4305,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c13bc0fd-6758-42d7-8feb-7eab9af41d90")
-		(property "Reference" "C603"
+		(property "Reference" "C601"
 			(at 67.818 79.502 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4514,7 +4391,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "C603")
+					(reference "C601")
 					(unit 1)
 				)
 			)
@@ -4532,7 +4409,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7442c79-0883-4519-8faf-a2706cad41e9")
-		(property "Reference" "C601"
+		(property "Reference" "C602"
 			(at 78.74 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4618,7 +4495,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "C601")
+					(reference "C602")
 					(unit 1)
 				)
 			)
@@ -4636,7 +4513,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4e80c02-695f-4816-831e-4350caed0b2f")
-		(property "Reference" "#PWR0601"
+		(property "Reference" "#PWR0605"
 			(at 247.65 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -4697,7 +4574,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "#PWR0601")
+					(reference "#PWR0605")
 					(unit 1)
 				)
 			)
@@ -4714,7 +4591,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dab0a388-a3f3-4d2e-9f52-07a8f32f31da")
-		(property "Reference" "#PWR0603"
+		(property "Reference" "#PWR0601"
 			(at 67.31 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -4774,7 +4651,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "#PWR0603")
+					(reference "#PWR0601")
 					(unit 1)
 				)
 			)
