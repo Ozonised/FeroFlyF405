@@ -78,16 +78,8 @@
       ],
       "drc_exclusions": [
         [
-          "lib_footprint_mismatch|135507500|103857500|0b911645-167b-4880-b848-95fd268ef185|00000000-0000-0000-0000-000000000000",
-          "altered to avoid silkscreen clipping and clearance issue"
-        ],
-        [
-          "lib_footprint_mismatch|145622500|114150000|7c401313-94a0-4526-b929-2071a3279f36|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "lib_footprint_mismatch|168640000|86550000|161b866f-1e4f-4a72-9b80-5aadd366334e|00000000-0000-0000-0000-000000000000",
-          "altered to prevent to copper to hole clearance issue"
+          "lib_footprint_mismatch|141107500|102407500|1106433d-ee6a-42c0-8e54-d7e3520e41e1|00000000-0000-0000-0000-000000000000",
+          "increased silk screen clearance"
         ]
       ],
       "meta": {
@@ -228,6 +220,7 @@
       "track_widths": [
         0.0,
         0.2,
+        0.254,
         0.3,
         0.6,
         0.8
@@ -696,10 +689,6 @@
       "version": 5
     },
     "net_colors": {
-      "/IO/D_PINIO0": "rgb(255, 229, 191)",
-      "/IO/D_PINIO1": "rgb(255, 229, 191)",
-      "/IO/IO1/D_PINIO0R": "rgb(255, 229, 191)",
-      "/IO/IO1/D_PINIO1R": "rgb(255, 229, 191)",
       "/IO/IO2/D_CC1A": "rgb(255, 229, 191)",
       "/IO/IO2/D_CC1B": "rgb(255, 229, 191)",
       "/MCU/D_BOOT0": "rgb(255, 229, 191)",
@@ -711,8 +700,6 @@
       "/MCU/D_NRSTR": "rgb(255, 229, 191)",
       "/Peripherals/CAN & LEDs/D_R_LED0": "rgb(255, 229, 191)",
       "/Peripherals/CAN & LEDs/D_R_LED1": "rgb(255, 229, 191)",
-      "Net-(D201-K)": "rgb(255, 229, 191)",
-      "Net-(D202-A)": "rgb(255, 229, 191)",
       "Net-(U601-Rs)": "rgb(255, 229, 191)"
     },
     "netclass_assignments": {},
@@ -939,6 +926,18 @@
           "group_by": false,
           "label": "PARTREV",
           "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
           "show": false
         }
       ],
