@@ -28,7 +28,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 118.11) (xy 64.77 118.11)
+			(xy 49.53 114.3) (xy 64.77 114.3)
 		)
 		(stroke
 			(width 0)
@@ -38,7 +38,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 100.33) (xy 64.77 100.33)
+			(xy 49.53 96.52) (xy 64.77 96.52)
 		)
 		(stroke
 			(width 0)
@@ -68,13 +68,23 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 91.44) (xy 64.77 91.44)
+			(xy 49.53 87.63) (xy 64.77 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "3a5120a6-be2e-41db-a37f-51f1cedd9a0c")
+	)
+	(wire
+		(pts
+			(xy 49.53 118.11) (xy 64.77 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4475c1ab-7b61-42e6-b9fc-fa2094282c31")
 	)
 	(wire
 		(pts
@@ -168,7 +178,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 104.14) (xy 64.77 104.14)
+			(xy 49.53 100.33) (xy 64.77 100.33)
 		)
 		(stroke
 			(width 0)
@@ -188,7 +198,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 110.49) (xy 64.77 110.49)
+			(xy 49.53 106.68) (xy 64.77 106.68)
 		)
 		(stroke
 			(width 0)
@@ -208,7 +218,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 113.03) (xy 64.77 113.03)
+			(xy 49.53 109.22) (xy 64.77 109.22)
 		)
 		(stroke
 			(width 0)
@@ -308,7 +318,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 97.79) (xy 64.77 97.79)
+			(xy 49.53 93.98) (xy 64.77 93.98)
 		)
 		(stroke
 			(width 0)
@@ -318,7 +328,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 93.98) (xy 64.77 93.98)
+			(xy 49.53 90.17) (xy 64.77 90.17)
 		)
 		(stroke
 			(width 0)
@@ -328,7 +338,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 106.68) (xy 64.77 106.68)
+			(xy 49.53 102.87) (xy 64.77 102.87)
 		)
 		(stroke
 			(width 0)
@@ -360,7 +370,7 @@
 	)
 	(hierarchical_label "D_I2C1_SCL"
 		(shape output)
-		(at 49.53 91.44 180)
+		(at 49.53 87.63 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -446,9 +456,20 @@
 		)
 		(uuid "7493b80f-bf51-4aa7-b21c-cf47d13165e5")
 	)
+	(hierarchical_label "D_BUZZER"
+		(shape output)
+		(at 49.53 118.11 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8113cc05-78b3-4084-9a09-440fc312e36a")
+	)
 	(hierarchical_label "D_ADC1_CH10"
 		(shape input)
-		(at 49.53 118.11 180)
+		(at 49.53 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -470,7 +491,7 @@
 	)
 	(hierarchical_label "D_USART5_RX"
 		(shape input)
-		(at 49.53 110.49 180)
+		(at 49.53 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -503,7 +524,7 @@
 	)
 	(hierarchical_label "D_USART2_TX"
 		(shape output)
-		(at 49.53 100.33 180)
+		(at 49.53 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -525,7 +546,7 @@
 	)
 	(hierarchical_label "D_USART2_RX"
 		(shape input)
-		(at 49.53 97.79 180)
+		(at 49.53 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -536,7 +557,7 @@
 	)
 	(hierarchical_label "D_USART4_RX"
 		(shape input)
-		(at 49.53 104.14 180)
+		(at 49.53 100.33 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -569,7 +590,7 @@
 	)
 	(hierarchical_label "D_USART4_TX"
 		(shape output)
-		(at 49.53 106.68 180)
+		(at 49.53 102.87 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -580,7 +601,7 @@
 	)
 	(hierarchical_label "D_I2C1_SDA"
 		(shape bidirectional)
-		(at 49.53 93.98 180)
+		(at 49.53 90.17 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -591,7 +612,7 @@
 	)
 	(hierarchical_label "D_USART5_TX"
 		(shape output)
-		(at 49.53 113.03 180)
+		(at 49.53 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -904,7 +925,7 @@
 			)
 		)
 		(pin "D_I2C1_SCL" output
-			(at 64.77 91.44 180)
+			(at 64.77 87.63 180)
 			(uuid "f21840c3-6865-4ba8-8001-780a6fdaaa96")
 			(effects
 				(font
@@ -914,7 +935,7 @@
 			)
 		)
 		(pin "D_I2C1_SDA" bidirectional
-			(at 64.77 93.98 180)
+			(at 64.77 90.17 180)
 			(uuid "119fe83a-fc34-4aee-9793-20218d390708")
 			(effects
 				(font
@@ -924,7 +945,7 @@
 			)
 		)
 		(pin "D_USART2_RX" input
-			(at 64.77 97.79 180)
+			(at 64.77 93.98 180)
 			(uuid "58ed6b6e-25fc-4cea-b715-57da57795723")
 			(effects
 				(font
@@ -934,7 +955,7 @@
 			)
 		)
 		(pin "D_USART2_TX" output
-			(at 64.77 100.33 180)
+			(at 64.77 96.52 180)
 			(uuid "e1fedade-6c19-4b37-8941-7a5547ed46c5")
 			(effects
 				(font
@@ -944,7 +965,7 @@
 			)
 		)
 		(pin "D_USART4_RX" input
-			(at 64.77 104.14 180)
+			(at 64.77 100.33 180)
 			(uuid "78ffc78c-656a-4778-8157-3fba212558e3")
 			(effects
 				(font
@@ -954,7 +975,7 @@
 			)
 		)
 		(pin "D_USART4_TX" output
-			(at 64.77 106.68 180)
+			(at 64.77 102.87 180)
 			(uuid "17775275-fad7-4639-beb9-2ffe22a1e5a9")
 			(effects
 				(font
@@ -964,7 +985,7 @@
 			)
 		)
 		(pin "D_USART5_RX" input
-			(at 64.77 110.49 180)
+			(at 64.77 106.68 180)
 			(uuid "45c3c0bf-595f-4b3a-a40e-f71ca7d4f669")
 			(effects
 				(font
@@ -974,7 +995,7 @@
 			)
 		)
 		(pin "D_USART5_TX" output
-			(at 64.77 113.03 180)
+			(at 64.77 109.22 180)
 			(uuid "2771a3f5-2e1d-48dd-bcc0-1a45a010f9d1")
 			(effects
 				(font
@@ -984,8 +1005,18 @@
 			)
 		)
 		(pin "D_ADC1_CH10" input
-			(at 64.77 118.11 180)
+			(at 64.77 114.3 180)
 			(uuid "9be2f886-06b4-4a29-9200-598d35b59592")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_BUZZER" output
+			(at 64.77 118.11 180)
+			(uuid "77310adf-037a-41af-87a5-b37252704216")
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -3596,7 +3596,7 @@
 		)
 		(uuid "cbd622d9-63c4-4194-9cfe-113391dc2942")
 	)
-	(hierarchical_label "D_ADC2_CH13"
+	(hierarchical_label "D_ADC2_CH11"
 		(shape input)
 		(at 99.06 125.73 0)
 		(effects
@@ -3605,7 +3605,7 @@
 			)
 			(justify left)
 		)
-		(uuid "e920c1d2-2c81-4bef-89b7-8dad6c1efb9a")
+		(uuid "603b2ee5-45ec-4ea9-9acb-1b2cba50bf21")
 	)
 	(symbol
 		(lib_id "Device:C_Small")

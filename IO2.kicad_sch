@@ -2784,8 +2784,8 @@
 		)
 	)
 	(rectangle
-		(start 94.9721 62.865)
-		(end 100.0521 66.675)
+		(start 95.6071 81.28)
+		(end 100.6871 85.09)
 		(stroke
 			(width 0)
 			(type default)
@@ -2796,8 +2796,8 @@
 		(uuid "030188c6-2d9c-49aa-b5bb-90f3c30519d7")
 	)
 	(rectangle
-		(start 94.9721 78.105)
-		(end 100.0521 81.915)
+		(start 95.6071 96.52)
+		(end 100.6871 100.33)
 		(stroke
 			(width 0)
 			(type default)
@@ -2808,7 +2808,7 @@
 		(uuid "074c4043-01c7-4bce-91a2-552349f93a5e")
 	)
 	(circle
-		(center 97.5121 53.34)
+		(center 98.1471 71.755)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -2820,7 +2820,7 @@
 		(uuid "07a804a6-317a-4c87-bf4b-d736058faa2e")
 	)
 	(circle
-		(center 87.3521 64.77)
+		(center 87.9871 83.185)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -2832,8 +2832,8 @@
 		(uuid "0ee64a1e-a175-466f-9276-ba97fec8b79c")
 	)
 	(rectangle
-		(start 84.8121 55.245)
-		(end 89.8921 59.055)
+		(start 85.4471 73.66)
+		(end 90.5271 77.47)
 		(stroke
 			(width 0)
 			(type default)
@@ -2844,8 +2844,8 @@
 		(uuid "0f5ea790-57c0-4cdc-b5a1-9f63d2d36859")
 	)
 	(rectangle
-		(start 84.8121 81.915)
-		(end 89.8921 85.725)
+		(start 85.4471 100.33)
+		(end 90.5271 104.14)
 		(stroke
 			(width 0)
 			(type default)
@@ -2856,8 +2856,8 @@
 		(uuid "11ba8e8f-3aff-4aa8-8048-4468102e396f")
 	)
 	(rectangle
-		(start 94.9721 66.675)
-		(end 100.0521 70.485)
+		(start 95.6071 85.09)
+		(end 100.6871 88.9)
 		(stroke
 			(width 0)
 			(type default)
@@ -2868,7 +2868,7 @@
 		(uuid "14ad9c17-04f7-4ff8-b4c4-04cef73ee8f9")
 	)
 	(circle
-		(center 87.3521 53.34)
+		(center 87.9871 71.755)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -2880,8 +2880,8 @@
 		(uuid "16f2c77d-dc80-47e6-b8c4-d8c3964deb35")
 	)
 	(rectangle
-		(start 84.8121 66.675)
-		(end 89.8921 70.485)
+		(start 85.4471 85.09)
+		(end 90.5271 88.9)
 		(stroke
 			(width 0)
 			(type default)
@@ -2892,8 +2892,8 @@
 		(uuid "19446aa7-0880-40cc-8603-2037ebe31ff0")
 	)
 	(rectangle
-		(start 94.9721 59.055)
-		(end 100.0521 62.865)
+		(start 95.6071 77.47)
+		(end 100.6871 81.28)
 		(stroke
 			(width 0)
 			(type default)
@@ -2904,8 +2904,8 @@
 		(uuid "2000106e-95ec-4f86-aa22-66991ff5b999")
 	)
 	(rectangle
-		(start 84.8121 70.485)
-		(end 89.8921 74.295)
+		(start 85.4471 88.9)
+		(end 90.5271 92.71)
 		(stroke
 			(width 0)
 			(type default)
@@ -2916,7 +2916,7 @@
 		(uuid "288f3961-7ae3-4db5-91f4-f3f6149e098e")
 	)
 	(circle
-		(center 97.5121 72.39)
+		(center 98.1471 90.805)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -2928,8 +2928,8 @@
 		(uuid "2e75c9c9-fd8c-4547-a264-fc68e528da4f")
 	)
 	(rectangle
-		(start 94.9721 51.435)
-		(end 100.0521 55.245)
+		(start 95.6071 69.85)
+		(end 100.6871 73.66)
 		(stroke
 			(width 0)
 			(type default)
@@ -2940,7 +2940,7 @@
 		(uuid "2f17ce01-ea77-401b-9cd2-fc02af09e221")
 	)
 	(circle
-		(center 92.4321 45.72)
+		(center 93.0671 64.135)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -2952,8 +2952,8 @@
 		(uuid "3722fe73-367c-45be-a1b5-28ab71994945")
 	)
 	(rectangle
-		(start 84.8121 78.105)
-		(end 89.8921 81.915)
+		(start 85.4471 96.52)
+		(end 90.5271 100.33)
 		(stroke
 			(width 0)
 			(type default)
@@ -2964,7 +2964,7 @@
 		(uuid "380e8e34-9ead-439a-84b6-3c832554d015")
 	)
 	(circle
-		(center 92.4321 57.15)
+		(center 93.0671 75.565)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -2976,8 +2976,8 @@
 		(uuid "38331788-6e98-4a79-991c-a4bfaa4743f8")
 	)
 	(rectangle
-		(start 94.9721 47.625)
-		(end 100.0521 51.435)
+		(start 95.6071 66.04)
+		(end 100.6871 69.85)
 		(stroke
 			(width 0)
 			(type default)
@@ -2988,7 +2988,7 @@
 		(uuid "391035b0-3e50-4cb0-95d3-9bffbd1cbe0a")
 	)
 	(circle
-		(center 92.4321 76.2)
+		(center 93.0671 94.615)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3000,8 +3000,8 @@
 		(uuid "3ec27531-b255-447c-b296-458d6267c95e")
 	)
 	(rectangle
-		(start 89.8921 51.435)
-		(end 94.9721 55.245)
+		(start 90.5271 69.85)
+		(end 95.6071 73.66)
 		(stroke
 			(width 0)
 			(type default)
@@ -3012,8 +3012,8 @@
 		(uuid "4a9d2b6e-bdc0-4782-a521-fab612322de7")
 	)
 	(rectangle
-		(start 89.8921 70.485)
-		(end 94.9721 74.295)
+		(start 90.5271 88.9)
+		(end 95.6071 92.71)
 		(stroke
 			(width 0)
 			(type default)
@@ -3024,8 +3024,8 @@
 		(uuid "4f931d94-bc5c-4823-972e-b40b664bdba4")
 	)
 	(rectangle
-		(start 94.9721 70.485)
-		(end 100.0521 74.295)
+		(start 95.6071 88.9)
+		(end 100.6871 92.71)
 		(stroke
 			(width 0)
 			(type default)
@@ -3036,7 +3036,7 @@
 		(uuid "5472df8c-be11-49b6-bb3f-a9f54e87468e")
 	)
 	(circle
-		(center 87.3521 45.72)
+		(center 87.9871 64.135)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3048,8 +3048,8 @@
 		(uuid "5ab8e10a-2c89-4f15-bb54-f19b0251550f")
 	)
 	(rectangle
-		(start 89.8921 43.815)
-		(end 94.9721 47.625)
+		(start 90.5271 62.23)
+		(end 95.6071 66.04)
 		(stroke
 			(width 0)
 			(type default)
@@ -3060,7 +3060,7 @@
 		(uuid "60ca0923-0be0-4ea3-9687-14c98929e04a")
 	)
 	(circle
-		(center 92.4321 83.82)
+		(center 93.0671 102.235)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3072,8 +3072,8 @@
 		(uuid "627989b5-d9f3-418a-9637-2782a76527d0")
 	)
 	(rectangle
-		(start 89.8921 59.055)
-		(end 94.9721 62.865)
+		(start 90.5271 77.47)
+		(end 95.6071 81.28)
 		(stroke
 			(width 0)
 			(type default)
@@ -3084,8 +3084,8 @@
 		(uuid "638dd8a5-6ac1-401b-ae8f-91cef9ded276")
 	)
 	(rectangle
-		(start 89.8921 78.105)
-		(end 94.9721 81.915)
+		(start 90.5271 96.52)
+		(end 95.6071 100.33)
 		(stroke
 			(width 0)
 			(type default)
@@ -3096,8 +3096,8 @@
 		(uuid "676648ae-707e-4bfb-9474-94bd2595ef6c")
 	)
 	(rectangle
-		(start 84.8121 59.055)
-		(end 89.8921 62.865)
+		(start 85.4471 77.47)
+		(end 90.5271 81.28)
 		(stroke
 			(width 0)
 			(type default)
@@ -3108,8 +3108,8 @@
 		(uuid "6995f47f-8559-41de-a00f-6e5d1f91f63c")
 	)
 	(rectangle
-		(start 89.8921 62.865)
-		(end 94.9721 66.675)
+		(start 90.5271 81.28)
+		(end 95.6071 85.09)
 		(stroke
 			(width 0)
 			(type default)
@@ -3120,7 +3120,7 @@
 		(uuid "6cf4c7f5-68a1-4456-91ae-8464d5359ba9")
 	)
 	(circle
-		(center 92.4321 53.34)
+		(center 93.0671 71.755)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3132,8 +3132,8 @@
 		(uuid "6f510747-4760-4f57-956c-92ed9bc1c5aa")
 	)
 	(rectangle
-		(start 84.8121 47.625)
-		(end 89.8921 51.435)
+		(start 85.4471 66.04)
+		(end 90.5271 69.85)
 		(stroke
 			(width 0)
 			(type default)
@@ -3143,8 +3143,20 @@
 		)
 		(uuid "709bb64b-d7cf-4e62-ada7-050b63bfdf3d")
 	)
+	(rectangle
+		(start 90.424 43.688)
+		(end 95.504 47.498)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "7a8d8adf-1a70-4f25-a359-1cb9091ab750")
+	)
 	(circle
-		(center 87.3521 49.53)
+		(center 87.9871 67.945)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3156,7 +3168,7 @@
 		(uuid "7d115b07-f630-4cd9-b51a-66fe8dacfd3d")
 	)
 	(circle
-		(center 97.5121 45.72)
+		(center 98.1471 64.135)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3168,7 +3180,7 @@
 		(uuid "8309571a-537b-4806-ba87-af4a7b627088")
 	)
 	(circle
-		(center 87.3521 83.82)
+		(center 87.9871 102.235)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3180,8 +3192,8 @@
 		(uuid "84146bcc-58b3-473b-8239-914e6147448a")
 	)
 	(rectangle
-		(start 89.8921 74.295)
-		(end 94.9721 78.105)
+		(start 90.5271 92.71)
+		(end 95.6071 96.52)
 		(stroke
 			(width 0)
 			(type default)
@@ -3192,7 +3204,7 @@
 		(uuid "878b7568-d5af-419c-9bef-910bc93fe8fc")
 	)
 	(circle
-		(center 97.5121 60.96)
+		(center 98.1471 79.375)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3204,7 +3216,7 @@
 		(uuid "8a907374-6ad5-466d-b3ba-2d7b7843a68f")
 	)
 	(circle
-		(center 92.4321 64.77)
+		(center 93.0671 83.185)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3216,7 +3228,7 @@
 		(uuid "93ad1bb1-76fb-4e79-868a-c452acaa745a")
 	)
 	(circle
-		(center 87.3521 80.01)
+		(center 87.9871 98.425)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3228,7 +3240,7 @@
 		(uuid "96735dd6-0e15-4a5a-bb61-f688a92c032c")
 	)
 	(circle
-		(center 92.4321 72.39)
+		(center 93.0671 90.805)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3240,7 +3252,7 @@
 		(uuid "97f1ba9c-acf5-4acf-b7c2-c639e273b441")
 	)
 	(circle
-		(center 97.5121 64.77)
+		(center 98.1471 83.185)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3252,7 +3264,7 @@
 		(uuid "9973bc8d-a140-43f6-825e-e40286192392")
 	)
 	(circle
-		(center 92.4321 87.63)
+		(center 93.0671 106.045)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3264,8 +3276,8 @@
 		(uuid "9d15783a-ef75-4346-bc0c-87467a330201")
 	)
 	(rectangle
-		(start 94.9721 74.295)
-		(end 100.0521 78.105)
+		(start 95.6071 92.71)
+		(end 100.6871 96.52)
 		(stroke
 			(width 0)
 			(type default)
@@ -3276,7 +3288,7 @@
 		(uuid "9f15acf8-082b-4b88-b16f-f59cb1271ccb")
 	)
 	(circle
-		(center 97.5121 80.01)
+		(center 98.1471 98.425)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3288,7 +3300,7 @@
 		(uuid "9f2e2cfa-f187-4ee9-a13f-06e7d4195a3a")
 	)
 	(circle
-		(center 97.5121 83.82)
+		(center 98.1471 102.235)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3300,7 +3312,7 @@
 		(uuid "9f62f657-c131-44c1-b0c2-aae5a1f8da6c")
 	)
 	(circle
-		(center 87.3521 68.58)
+		(center 87.9871 86.995)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3312,8 +3324,8 @@
 		(uuid "aa4848ea-e33f-4bae-9d53-73f7b4f2505a")
 	)
 	(rectangle
-		(start 84.8121 51.435)
-		(end 89.8921 55.245)
+		(start 85.4471 69.85)
+		(end 90.5271 73.66)
 		(stroke
 			(width 0)
 			(type default)
@@ -3324,7 +3336,7 @@
 		(uuid "ab6c07b2-91fa-4124-843b-904624ad8cda")
 	)
 	(circle
-		(center 87.3521 57.15)
+		(center 87.9871 75.565)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3336,7 +3348,7 @@
 		(uuid "add8a9b5-cccb-4503-b38c-feac25ff5707")
 	)
 	(circle
-		(center 97.5121 87.63)
+		(center 98.1471 106.045)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3348,8 +3360,8 @@
 		(uuid "ae479c91-cf56-42c5-b444-ee5a27bf3ebf")
 	)
 	(rectangle
-		(start 94.9721 81.915)
-		(end 100.0521 85.725)
+		(start 95.6071 100.33)
+		(end 100.6871 104.14)
 		(stroke
 			(width 0)
 			(type default)
@@ -3372,8 +3384,8 @@
 		(uuid "b162fe6a-d88f-4841-846f-1c019db53728")
 	)
 	(rectangle
-		(start 89.8921 66.675)
-		(end 94.9721 70.485)
+		(start 90.5271 85.09)
+		(end 95.6071 88.9)
 		(stroke
 			(width 0)
 			(type default)
@@ -3384,7 +3396,7 @@
 		(uuid "b3148a0a-aff6-470f-878c-48d39ea8cabb")
 	)
 	(circle
-		(center 92.4321 49.53)
+		(center 93.0671 67.945)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3396,7 +3408,7 @@
 		(uuid "b4c83d7e-a066-48de-b1db-8f4a9354e25e")
 	)
 	(circle
-		(center 97.5121 49.53)
+		(center 98.1471 67.945)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3408,8 +3420,8 @@
 		(uuid "baf6bb61-bb45-4408-a83c-9e0e674e1413")
 	)
 	(rectangle
-		(start 89.8921 81.915)
-		(end 94.9721 85.725)
+		(start 90.5271 100.33)
+		(end 95.6071 104.14)
 		(stroke
 			(width 0)
 			(type default)
@@ -3419,8 +3431,20 @@
 		)
 		(uuid "bd317616-0f30-467d-b335-fa1639b051a7")
 	)
+	(rectangle
+		(start 85.344 43.688)
+		(end 90.424 47.498)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "bdef8b94-bfe1-413b-b849-5f25d0f9f2f5")
+	)
 	(circle
-		(center 97.5121 57.15)
+		(center 98.1471 75.565)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3432,7 +3456,7 @@
 		(uuid "be63313d-6c05-45b4-a30d-2949d7cbda2d")
 	)
 	(circle
-		(center 87.3521 60.96)
+		(center 87.9871 79.375)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3444,8 +3468,8 @@
 		(uuid "c046c505-ee57-4cf3-999e-a40491297a6a")
 	)
 	(rectangle
-		(start 89.8921 47.625)
-		(end 94.9721 51.435)
+		(start 90.5271 66.04)
+		(end 95.6071 69.85)
 		(stroke
 			(width 0)
 			(type default)
@@ -3456,8 +3480,8 @@
 		(uuid "c115daa0-546e-482c-9301-7d3e962cff5e")
 	)
 	(rectangle
-		(start 89.8921 85.725)
-		(end 94.9721 89.535)
+		(start 90.5271 104.14)
+		(end 95.6071 107.95)
 		(stroke
 			(width 0)
 			(type default)
@@ -3468,8 +3492,8 @@
 		(uuid "c59a2536-6163-4215-9e22-7ae9c0181a46")
 	)
 	(rectangle
-		(start 94.9721 85.725)
-		(end 100.0521 89.535)
+		(start 95.6071 104.14)
+		(end 100.6871 107.95)
 		(stroke
 			(width 0)
 			(type default)
@@ -3479,8 +3503,20 @@
 		)
 		(uuid "ca8fc720-2536-4b1c-ab41-d529ae443731")
 	)
+	(rectangle
+		(start 95.504 43.688)
+		(end 100.584 47.498)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "ccc4a156-0f98-43f4-a0e1-1727e0ac049d")
+	)
 	(circle
-		(center 92.4321 68.58)
+		(center 93.0671 86.995)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3492,7 +3528,7 @@
 		(uuid "ccc5ba06-8015-4be6-8660-fa35191e292e")
 	)
 	(circle
-		(center 87.3521 76.2)
+		(center 87.9871 94.615)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3504,7 +3540,7 @@
 		(uuid "d5e8768b-f200-4cca-adcf-de247c8c8343")
 	)
 	(circle
-		(center 92.4321 60.96)
+		(center 93.0671 79.375)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3516,8 +3552,8 @@
 		(uuid "d786acd7-932d-487c-b2ad-85fd62c56ae5")
 	)
 	(rectangle
-		(start 84.8121 85.725)
-		(end 89.8921 89.535)
+		(start 85.4471 104.14)
+		(end 90.5271 107.95)
 		(stroke
 			(width 0)
 			(type default)
@@ -3528,7 +3564,7 @@
 		(uuid "d78d857b-b74f-4b1e-bd54-b2ea02774133")
 	)
 	(circle
-		(center 97.5121 68.58)
+		(center 98.1471 86.995)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3540,8 +3576,8 @@
 		(uuid "d8bbf82e-21b8-47c5-b3ba-9c15eaf989c4")
 	)
 	(rectangle
-		(start 94.9721 55.245)
-		(end 100.0521 59.055)
+		(start 95.6071 73.66)
+		(end 100.6871 77.47)
 		(stroke
 			(width 0)
 			(type default)
@@ -3552,8 +3588,8 @@
 		(uuid "da08e29a-b0e2-4f26-8b08-3616ff03deb9")
 	)
 	(rectangle
-		(start 84.8121 39.37)
-		(end 89.8921 43.18)
+		(start 85.471 57.658)
+		(end 90.551 61.468)
 		(stroke
 			(width 0)
 			(type default)
@@ -3576,7 +3612,7 @@
 		(uuid "e2756c78-ecf5-4b86-9765-3993e1eff6a0")
 	)
 	(circle
-		(center 87.3521 72.39)
+		(center 87.9871 90.805)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3588,8 +3624,8 @@
 		(uuid "e4d6cd96-0cb5-4c1d-a673-5f1ebc8f2f30")
 	)
 	(rectangle
-		(start 94.9721 39.37)
-		(end 100.0521 43.18)
+		(start 95.631 57.658)
+		(end 100.584 61.468)
 		(stroke
 			(width 0)
 			(type default)
@@ -3612,8 +3648,8 @@
 		(uuid "e7d6d328-aa8f-4580-8e60-0bd6cf36ddd5")
 	)
 	(rectangle
-		(start 84.8121 74.295)
-		(end 89.8921 78.105)
+		(start 85.4471 92.71)
+		(end 90.5271 96.52)
 		(stroke
 			(width 0)
 			(type default)
@@ -3624,8 +3660,8 @@
 		(uuid "e8a7d3b9-7bc2-4d18-b08b-964688bdda23")
 	)
 	(rectangle
-		(start 84.8121 43.815)
-		(end 89.8921 47.625)
+		(start 85.4471 62.23)
+		(end 90.5271 66.04)
 		(stroke
 			(width 0)
 			(type default)
@@ -3636,7 +3672,7 @@
 		(uuid "e995f11f-a3ec-4276-8ce6-89beda58a4f4")
 	)
 	(circle
-		(center 97.5121 76.2)
+		(center 98.1471 94.615)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3648,8 +3684,8 @@
 		(uuid "ea3c6fec-b36b-4b9d-a6b9-cd26940b0802")
 	)
 	(rectangle
-		(start 84.8121 62.865)
-		(end 89.8921 66.675)
+		(start 85.4471 81.28)
+		(end 90.5271 85.09)
 		(stroke
 			(width 0)
 			(type default)
@@ -3660,7 +3696,7 @@
 		(uuid "efd292d1-a366-4720-b951-d268a92b6b99")
 	)
 	(circle
-		(center 87.3521 87.63)
+		(center 87.9871 106.045)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3672,8 +3708,8 @@
 		(uuid "f13aa4dc-2e68-4ffd-b9c7-dd2089131134")
 	)
 	(rectangle
-		(start 89.8921 55.245)
-		(end 94.9721 59.055)
+		(start 90.5271 73.66)
+		(end 95.6071 77.47)
 		(stroke
 			(width 0)
 			(type default)
@@ -3684,8 +3720,8 @@
 		(uuid "f2e113d4-53ab-4088-ba32-a7dd09463408")
 	)
 	(rectangle
-		(start 94.9721 43.815)
-		(end 100.0521 47.625)
+		(start 95.6071 62.23)
+		(end 100.6871 66.04)
 		(stroke
 			(width 0)
 			(type default)
@@ -3696,8 +3732,8 @@
 		(uuid "f31554cc-8eef-4c13-b67f-b23f4779cc4a")
 	)
 	(rectangle
-		(start 89.8921 39.37)
-		(end 94.9721 43.18)
+		(start 90.551 57.658)
+		(end 95.631 61.468)
 		(stroke
 			(width 0)
 			(type default)
@@ -3708,7 +3744,7 @@
 		(uuid "f6368f8d-8e46-4139-9f56-8ef65addbd6c")
 	)
 	(circle
-		(center 92.4321 80.01)
+		(center 93.0671 98.425)
 		(radius 0.635)
 		(stroke
 			(width 0)
@@ -3733,9 +3769,9 @@
 		)
 		(uuid "16bacd28-d7f9-4b7b-8621-e421bc260a9d")
 	)
-	(text "G	5V	S"
+	(text "S	5V	G"
 		(exclude_from_sim no)
-		(at 92.3051 41.656 0)
+		(at 92.964 59.944 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3785,6 +3821,16 @@
 		)
 		(uuid "86686332-7608-4e9c-9562-f6ec3ca40e8d")
 	)
+	(text "SB	4V5	G"
+		(exclude_from_sim no)
+		(at 92.202 45.974 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9fff58a6-e80f-4da8-8157-a1a280955343")
+	)
 	(text "(9) IO2"
 		(exclude_from_sim no)
 		(at 142.24 24.892 0)
@@ -3798,10 +3844,30 @@
 		)
 		(uuid "ada6ef50-ae5d-4876-a0e7-a788c2aa873e")
 	)
-	(text_box "Silk Screen Text\nPin 1 (left) to 3 (right)"
+	(text_box "Silk Screen Text\nPin 1 (left) to 3 (right) for J912"
 		(exclude_from_sim no)
-		(at 84.8121 32.385 0)
+		(at 85.344 36.703 0)
 		(size 15.24 6.985)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left top)
+		)
+		(uuid "22e02f85-cc75-4b80-8dc1-d5d9adbf8760")
+	)
+	(text_box "Silk Screen Text\nPin 1 (left) to 3 (right) for J901 - J911"
+		(exclude_from_sim no)
+		(at 85.344 49.2114 0)
+		(size 15.24 8.4466)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
@@ -3818,9 +3884,9 @@
 		)
 		(uuid "29735956-494b-410f-ae08-db0120b3dc4f")
 	)
-	(text_box "Connector Placement starting from J901 (top) to J912 (bottom)"
+	(text_box "Connector Placement starting from J912 (top), J901 to J911 (bottom)"
 		(exclude_from_sim no)
-		(at 78.4621 43.815 90)
+		(at 78.105 47.625 90)
 		(size 5.9929 45.72)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -3899,16 +3965,10 @@
 		(uuid "7b7794ed-5b5b-4420-86aa-b225ad12248c")
 	)
 	(junction
-		(at 229.87 110.49)
+		(at 242.57 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "85ae6c32-024c-4bc8-bade-617981d419d3")
-	)
-	(junction
-		(at 229.87 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9411e1f6-d28c-47df-ae63-59981796199f")
 	)
 	(junction
 		(at 247.65 85.09)
@@ -4048,16 +4108,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 110.49) (xy 229.87 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ff8e3f2-d279-4ded-940b-875d00f71b37")
-	)
-	(wire
-		(pts
 			(xy 49.53 170.18) (xy 54.61 170.18)
 		)
 		(stroke
@@ -4125,16 +4175,6 @@
 			(type default)
 		)
 		(uuid "1bce4f75-1123-4361-9b58-f0439adc2572")
-	)
-	(wire
-		(pts
-			(xy 229.87 110.49) (xy 229.87 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f5379be-5c2d-4dce-99b1-2eec8daf471a")
 	)
 	(wire
 		(pts
@@ -4328,7 +4368,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 109.22) (xy 229.87 110.49)
+			(xy 242.57 109.22) (xy 242.57 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4718,7 +4758,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 111.76) (xy 229.87 111.76)
+			(xy 226.06 110.49) (xy 242.57 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4845,16 +4885,6 @@
 			(type default)
 		)
 		(uuid "987a5bed-48bf-4f89-8a0f-7e99f88b8f51")
-	)
-	(wire
-		(pts
-			(xy 229.87 116.84) (xy 229.87 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a9a371e-00a0-4b3e-9a6f-37237dc49704")
 	)
 	(wire
 		(pts
@@ -5028,7 +5058,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 124.46) (xy 226.06 111.76)
+			(xy 226.06 124.46) (xy 226.06 110.49)
 		)
 		(stroke
 			(width 0)
@@ -5544,9 +5574,43 @@
 				)
 				(uuid "43a9d288-bdd0-45a7-8c47-9820984a8307")
 			)
-			(table_cell "J901"
+			(table_cell "J912"
 				(exclude_from_sim no)
 				(at 103.2271 43.815 0)
+				(size 10.16 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "e2411133-0619-49dc-a284-cf68245e8aac")
+			)
+			(table_cell "SBUS"
+				(exclude_from_sim no)
+				(at 113.3871 43.815 0)
+				(size 8.89 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "642bf2d1-0be9-4409-8b2c-b86886bf80fe")
+			)
+			(table_cell "J901"
+				(exclude_from_sim no)
+				(at 103.2271 47.625 0)
 				(size 10.16 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5563,7 +5627,7 @@
 			)
 			(table_cell "1"
 				(exclude_from_sim no)
-				(at 113.3871 43.815 0)
+				(at 113.3871 47.625 0)
 				(size 8.89 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5580,7 +5644,7 @@
 			)
 			(table_cell "J902"
 				(exclude_from_sim no)
-				(at 103.2271 47.625 0)
+				(at 103.2271 51.435 0)
 				(size 10.16 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5597,7 +5661,7 @@
 			)
 			(table_cell "2"
 				(exclude_from_sim no)
-				(at 113.3871 47.625 0)
+				(at 113.3871 51.435 0)
 				(size 8.89 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5614,7 +5678,7 @@
 			)
 			(table_cell "J903"
 				(exclude_from_sim no)
-				(at 103.2271 51.435 0)
+				(at 103.2271 55.245 0)
 				(size 10.16 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5631,7 +5695,7 @@
 			)
 			(table_cell "3"
 				(exclude_from_sim no)
-				(at 113.3871 51.435 0)
+				(at 113.3871 55.245 0)
 				(size 8.89 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5648,7 +5712,7 @@
 			)
 			(table_cell "J904"
 				(exclude_from_sim no)
-				(at 103.2271 55.245 0)
+				(at 103.2271 59.055 0)
 				(size 10.16 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5665,7 +5729,7 @@
 			)
 			(table_cell "4"
 				(exclude_from_sim no)
-				(at 113.3871 55.245 0)
+				(at 113.3871 59.055 0)
 				(size 8.89 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5682,7 +5746,7 @@
 			)
 			(table_cell "J905"
 				(exclude_from_sim no)
-				(at 103.2271 59.055 0)
+				(at 103.2271 62.865 0)
 				(size 10.16 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5699,7 +5763,7 @@
 			)
 			(table_cell "5"
 				(exclude_from_sim no)
-				(at 113.3871 59.055 0)
+				(at 113.3871 62.865 0)
 				(size 8.89 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5716,7 +5780,7 @@
 			)
 			(table_cell "J906"
 				(exclude_from_sim no)
-				(at 103.2271 62.865 0)
+				(at 103.2271 66.675 0)
 				(size 10.16 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5733,7 +5797,7 @@
 			)
 			(table_cell "6"
 				(exclude_from_sim no)
-				(at 113.3871 62.865 0)
+				(at 113.3871 66.675 0)
 				(size 8.89 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5750,7 +5814,7 @@
 			)
 			(table_cell "J907"
 				(exclude_from_sim no)
-				(at 103.2271 66.675 0)
+				(at 103.2271 70.485 0)
 				(size 10.16 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5767,7 +5831,7 @@
 			)
 			(table_cell "7"
 				(exclude_from_sim no)
-				(at 113.3871 66.675 0)
+				(at 113.3871 70.485 0)
 				(size 8.89 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5784,7 +5848,7 @@
 			)
 			(table_cell "J908"
 				(exclude_from_sim no)
-				(at 103.2271 70.485 0)
+				(at 103.2271 74.295 0)
 				(size 10.16 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5801,7 +5865,7 @@
 			)
 			(table_cell "8"
 				(exclude_from_sim no)
-				(at 113.3871 70.485 0)
+				(at 113.3871 74.295 0)
 				(size 8.89 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5818,7 +5882,7 @@
 			)
 			(table_cell "J909"
 				(exclude_from_sim no)
-				(at 103.2271 74.295 0)
+				(at 103.2271 78.105 0)
 				(size 10.16 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5835,7 +5899,7 @@
 			)
 			(table_cell "9"
 				(exclude_from_sim no)
-				(at 113.3871 74.295 0)
+				(at 113.3871 78.105 0)
 				(size 8.89 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5852,7 +5916,7 @@
 			)
 			(table_cell "J910"
 				(exclude_from_sim no)
-				(at 103.2271 78.105 0)
+				(at 103.2271 81.915 0)
 				(size 10.16 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5869,7 +5933,7 @@
 			)
 			(table_cell "10"
 				(exclude_from_sim no)
-				(at 113.3871 78.105 0)
+				(at 113.3871 81.915 0)
 				(size 8.89 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5886,7 +5950,7 @@
 			)
 			(table_cell "J911"
 				(exclude_from_sim no)
-				(at 103.2271 81.915 0)
+				(at 103.2271 85.725 0)
 				(size 10.16 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
@@ -5903,40 +5967,6 @@
 			)
 			(table_cell "11"
 				(exclude_from_sim no)
-				(at 113.3871 81.915 0)
-				(size 8.89 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "70e6eacd-b52f-4c48-a9e8-2018d5c600b2")
-			)
-			(table_cell "J912"
-				(exclude_from_sim no)
-				(at 103.2271 85.725 0)
-				(size 10.16 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "4c199e99-b2ff-4f17-98d8-dfddbbe2e577")
-			)
-			(table_cell "SBUS"
-				(exclude_from_sim no)
 				(at 113.3871 85.725 0)
 				(size 8.89 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
@@ -5950,7 +5980,7 @@
 					)
 					(justify left top)
 				)
-				(uuid "391426c3-37d2-41be-85e1-d5c518038d18")
+				(uuid "70e6eacd-b52f-4c48-a9e8-2018d5c600b2")
 			)
 		)
 	)
@@ -6345,7 +6375,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "11b04a2b-71f7-4525-9fab-feaf3e5986b6")
-		(property "Reference" "C902"
+		(property "Reference" "C901"
 			(at 184.912 47.752 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6431,7 +6461,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "C902")
+					(reference "C901")
 					(unit 1)
 				)
 			)
@@ -6448,7 +6478,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "11b30523-59cc-423c-aa03-7e11ce59a704")
-		(property "Reference" "R910"
+		(property "Reference" "R907"
 			(at 44.958 112.268 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6534,7 +6564,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "R910")
+					(reference "R907")
 					(unit 1)
 				)
 			)
@@ -6684,7 +6714,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1580d237-5c24-40fa-9ee1-1a08b6014d38")
-		(property "Reference" "R905"
+		(property "Reference" "R902"
 			(at 44.958 48.768 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6770,7 +6800,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "R905")
+					(reference "R902")
 					(unit 1)
 				)
 			)
@@ -6907,7 +6937,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c416320-7f93-4ac7-99a4-c5cd3b8c0043")
-		(property "Reference" "#PWR0922"
+		(property "Reference" "#PWR0921"
 			(at 50.8 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -6968,7 +6998,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0922")
+					(reference "#PWR0921")
 					(unit 1)
 				)
 			)
@@ -6986,7 +7016,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e98fdc2-6385-4b56-b682-cdd277dc9ae5")
-		(property "Reference" "#PWR0921"
+		(property "Reference" "#PWR0918"
 			(at 49.53 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -7047,7 +7077,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0921")
+					(reference "#PWR0918")
 					(unit 1)
 				)
 			)
@@ -7317,7 +7347,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3edd2080-8eb4-4f07-8294-a2300cbcad4a")
-		(property "Reference" "#PWR0918"
+		(property "Reference" "#PWR0912"
 			(at 48.26 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -7378,7 +7408,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0918")
+					(reference "#PWR0912")
 					(unit 1)
 				)
 			)
@@ -7396,7 +7426,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fe13858-71a0-4e29-91bf-7ca64ef871b3")
-		(property "Reference" "#PWR0914"
+		(property "Reference" "#PWR0920"
 			(at 50.8 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -7457,7 +7487,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0914")
+					(reference "#PWR0920")
 					(unit 1)
 				)
 			)
@@ -7474,7 +7504,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "45b390cc-35eb-461b-8df3-91a004daaac9")
-		(property "Reference" "R909"
+		(property "Reference" "R906"
 			(at 44.958 99.568 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7560,7 +7590,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "R909")
+					(reference "R906")
 					(unit 1)
 				)
 			)
@@ -7577,7 +7607,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4a8abdda-caa1-4162-b870-85c628702852")
-		(property "Reference" "#PWR0903"
+		(property "Reference" "#PWR0908"
 			(at 29.21 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -7637,7 +7667,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0903")
+					(reference "#PWR0908")
 					(unit 1)
 				)
 			)
@@ -7656,7 +7686,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ab2bb3d-4316-4e4e-b8ec-27e5c0c1442e")
-		(property "Reference" "#PWR0925"
+		(property "Reference" "#PWR0931"
 			(at 248.92 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -7717,7 +7747,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0925")
+					(reference "#PWR0931")
 					(unit 1)
 				)
 			)
@@ -7903,7 +7933,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "601345c0-841d-4775-9395-98ffe4f5690c")
-		(property "Reference" "#PWR0916"
+		(property "Reference" "#PWR0914"
 			(at 49.53 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -7964,7 +7994,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0916")
+					(reference "#PWR0914")
 					(unit 1)
 				)
 			)
@@ -7981,7 +8011,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "61f0e439-43ab-41c2-9601-e53d0c99582b")
-		(property "Reference" "J914"
+		(property "Reference" "J913"
 			(at 244.602 113.284 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8099,7 +8129,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "J914")
+					(reference "J913")
 					(unit 1)
 				)
 			)
@@ -8201,7 +8231,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "69ecf124-19eb-48b1-9c2c-64e7ed40cc89")
-		(property "Reference" "R903"
+		(property "Reference" "R912"
 			(at 100.584 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8287,7 +8317,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "R903")
+					(reference "R912")
 					(unit 1)
 				)
 			)
@@ -8389,7 +8419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7685ae5c-3280-4c07-89f7-554b3a174560")
-		(property "Reference" "#PWR0920"
+		(property "Reference" "#PWR0917"
 			(at 49.53 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -8450,7 +8480,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0920")
+					(reference "#PWR0917")
 					(unit 1)
 				)
 			)
@@ -8467,7 +8497,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "78ac2350-252b-4c3b-8653-d8b557be8cb4")
-		(property "Reference" "#PWR0904"
+		(property "Reference" "#PWR0909"
 			(at 29.21 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -8527,7 +8557,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0904")
+					(reference "#PWR0909")
 					(unit 1)
 				)
 			)
@@ -8544,7 +8574,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7955b558-303d-4189-bd56-179ed5bea6ab")
-		(property "Reference" "R904"
+		(property "Reference" "R901"
 			(at 44.958 36.068 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8630,7 +8660,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "R904")
+					(reference "R901")
 					(unit 1)
 				)
 			)
@@ -8649,7 +8679,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b006e18-a797-43f8-a8d1-c22e6c8da2f5")
-		(property "Reference" "#PWR0926"
+		(property "Reference" "#PWR0928"
 			(at 195.58 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -8710,7 +8740,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0926")
+					(reference "#PWR0928")
 					(unit 1)
 				)
 			)
@@ -8727,7 +8757,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7ec21ed7-ea0b-4585-8595-610c47ac527a")
-		(property "Reference" "R906"
+		(property "Reference" "R903"
 			(at 44.958 61.468 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8813,7 +8843,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "R906")
+					(reference "R903")
 					(unit 1)
 				)
 			)
@@ -8831,7 +8861,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "85ce3979-6d7f-47c9-bc35-69150bf8fefd")
-		(property "Reference" "#PWR0912"
+		(property "Reference" "#PWR0925"
 			(at 109.22 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -8891,7 +8921,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0912")
+					(reference "#PWR0925")
 					(unit 1)
 				)
 			)
@@ -8908,7 +8938,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8935f713-39a2-4511-99ab-e0d0dd168b75")
-		(property "Reference" "#PWR0902"
+		(property "Reference" "#PWR0907"
 			(at 29.21 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -8968,7 +8998,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0902")
+					(reference "#PWR0907")
 					(unit 1)
 				)
 			)
@@ -8985,7 +9015,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "897fa24f-5728-4ce0-8017-2603ba28649f")
-		(property "Reference" "C901"
+		(property "Reference" "C902"
 			(at 195.326 47.752 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9071,7 +9101,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "C901")
+					(reference "C902")
 					(unit 1)
 				)
 			)
@@ -9088,7 +9118,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8b71f3bc-a56f-43bc-a63a-278a1309c8bf")
-		(property "Reference" "R912"
+		(property "Reference" "R909"
 			(at 44.958 137.668 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9174,7 +9204,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "R912")
+					(reference "R909")
 					(unit 1)
 				)
 			)
@@ -9192,7 +9222,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "921ca87c-a8a5-4ae3-b1eb-d2095eaad1e7")
-		(property "Reference" "#PWR0915"
+		(property "Reference" "#PWR0913"
 			(at 49.53 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -9253,7 +9283,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0915")
+					(reference "#PWR0913")
 					(unit 1)
 				)
 			)
@@ -9270,7 +9300,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9a21a0fc-f26d-45c8-abb8-d4de05457d86")
-		(property "Reference" "R915"
+		(property "Reference" "R913"
 			(at 114.808 160.528 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9356,87 +9386,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "R915")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 229.87 118.11 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9a88643d-e840-46c2-9a8f-ceac2525920b")
-		(property "Reference" "#PWR0932"
-			(at 229.87 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 229.87 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 229.87 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 229.87 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 229.87 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0cec0138-855a-4bd0-b9a3-7d2aa17514f1")
-		)
-		(instances
-			(project "FeroFlyF405"
-				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0932")
+					(reference "R913")
 					(unit 1)
 				)
 			)
@@ -9558,7 +9508,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9df0ae3e-fb1b-4b1f-9c0b-7f5d3b041197")
-		(property "Reference" "#PWR0928"
+		(property "Reference" "#PWR0923"
 			(at 101.6 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -9618,7 +9568,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0928")
+					(reference "#PWR0923")
 					(unit 1)
 				)
 			)
@@ -9635,7 +9585,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a11e287d-2fe4-46b5-b859-a78a2a0dfc37")
-		(property "Reference" "#PWR0901"
+		(property "Reference" "#PWR0906"
 			(at 29.21 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -9695,7 +9645,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0901")
+					(reference "#PWR0906")
 					(unit 1)
 				)
 			)
@@ -9713,7 +9663,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a30ca083-ea0c-4446-af4f-9a9d29964f48")
-		(property "Reference" "#PWR0924"
+		(property "Reference" "#PWR0926"
 			(at 120.65 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -9774,7 +9724,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0924")
+					(reference "#PWR0926")
 					(unit 1)
 				)
 			)
@@ -9877,7 +9827,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2b96463-5f59-4a59-8ee7-04a783b05819")
-		(property "Reference" "J913"
+		(property "Reference" "J914"
 			(at 250.19 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10040,7 +9990,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "J913")
+					(reference "J914")
 					(unit 1)
 				)
 			)
@@ -10057,7 +10007,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b50e0976-2158-4bcc-89fc-6668228cb3fc")
-		(property "Reference" "R911"
+		(property "Reference" "R908"
 			(at 44.958 124.968 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10143,7 +10093,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "R911")
+					(reference "R908")
 					(unit 1)
 				)
 			)
@@ -10244,7 +10194,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bb2c2953-2855-4684-a0c2-49dd5f69f0df")
-		(property "Reference" "#PWR0906"
+		(property "Reference" "#PWR0911"
 			(at 29.21 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -10304,7 +10254,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0906")
+					(reference "#PWR0911")
 					(unit 1)
 				)
 			)
@@ -10401,7 +10351,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bffc180c-bda2-43b6-91fa-d33bf272a0dd")
-		(property "Reference" "R914"
+		(property "Reference" "R911"
 			(at 44.958 163.068 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10487,7 +10437,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "R914")
+					(reference "R911")
 					(unit 1)
 				)
 			)
@@ -10495,7 +10445,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 229.87 109.22 0)
+		(at 242.57 109.22 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10504,8 +10454,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c0c068ad-8f33-4f97-8b05-0533be97734f")
-		(property "Reference" "#PWR0931"
-			(at 229.87 113.03 0)
+		(property "Reference" "#PWR0929"
+			(at 242.57 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10516,7 +10466,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 229.108 105.41 0)
+			(at 241.808 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10526,7 +10476,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 229.87 109.22 0)
+			(at 242.57 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10537,7 +10487,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 229.87 109.22 0)
+			(at 242.57 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10548,7 +10498,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 229.87 109.22 0)
+			(at 242.57 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10564,7 +10514,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0931")
+					(reference "#PWR0929")
 					(unit 1)
 				)
 			)
@@ -10581,7 +10531,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c57f2b9f-4008-4eee-a2bf-7b4809c7b746")
-		(property "Reference" "R913"
+		(property "Reference" "R910"
 			(at 44.958 150.368 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10667,7 +10617,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "R913")
+					(reference "R910")
 					(unit 1)
 				)
 			)
@@ -10684,7 +10634,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c65ee0fa-0588-4f24-9419-2501944add5d")
-		(property "Reference" "#PWR0911"
+		(property "Reference" "#PWR0905"
 			(at 27.94 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -10744,7 +10694,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0911")
+					(reference "#PWR0905")
 					(unit 1)
 				)
 			)
@@ -10864,7 +10814,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c9046f0e-136a-4b4b-9b64-60fa817ff7bc")
-		(property "Reference" "#PWR0907"
+		(property "Reference" "#PWR0901"
 			(at 27.94 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -10924,7 +10874,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0907")
+					(reference "#PWR0901")
 					(unit 1)
 				)
 			)
@@ -10941,7 +10891,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf8989f7-df9d-40b6-8669-f334051b781e")
-		(property "Reference" "#PWR0908"
+		(property "Reference" "#PWR0902"
 			(at 27.94 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -11001,7 +10951,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0908")
+					(reference "#PWR0902")
 					(unit 1)
 				)
 			)
@@ -11019,7 +10969,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1cc065b-43ba-47be-b477-8bb5d0f8d3a3")
-		(property "Reference" "#PWR0913"
+		(property "Reference" "#PWR0919"
 			(at 50.8 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -11080,7 +11030,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0913")
+					(reference "#PWR0919")
 					(unit 1)
 				)
 			)
@@ -11097,7 +11047,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d4fcce2e-2859-4400-9b05-82c0b9aaa382")
-		(property "Reference" "R908"
+		(property "Reference" "R905"
 			(at 44.958 86.868 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11183,7 +11133,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "R908")
+					(reference "R905")
 					(unit 1)
 				)
 			)
@@ -11201,7 +11151,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d61716e5-b5e5-4b62-abe3-69213d7a7e07")
-		(property "Reference" "#PWR0923"
+		(property "Reference" "#PWR0922"
 			(at 50.8 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -11262,7 +11212,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0923")
+					(reference "#PWR0922")
 					(unit 1)
 				)
 			)
@@ -11279,7 +11229,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d65545f8-edfa-4e28-a5f5-7b6f928c9842")
-		(property "Reference" "#PWR0905"
+		(property "Reference" "#PWR0910"
 			(at 29.21 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -11339,7 +11289,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0905")
+					(reference "#PWR0910")
 					(unit 1)
 				)
 			)
@@ -11357,7 +11307,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d65b0b9f-e699-44c0-ac57-764c992d6afa")
-		(property "Reference" "#PWR0930"
+		(property "Reference" "#PWR0927"
 			(at 175.26 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -11417,7 +11367,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0930")
+					(reference "#PWR0927")
 					(unit 1)
 				)
 			)
@@ -11434,7 +11384,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "daa801a1-2660-485f-b6aa-b605ece6c5f2")
-		(property "Reference" "#PWR0910"
+		(property "Reference" "#PWR0904"
 			(at 27.94 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -11494,7 +11444,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0910")
+					(reference "#PWR0904")
 					(unit 1)
 				)
 			)
@@ -11512,7 +11462,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db00650f-2974-44cb-bd0a-678e5c005b37")
-		(property "Reference" "#PWR0917"
+		(property "Reference" "#PWR0915"
 			(at 49.53 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -11573,7 +11523,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0917")
+					(reference "#PWR0915")
 					(unit 1)
 				)
 			)
@@ -11591,7 +11541,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ddca86ae-1e69-4243-a7fc-c8ba13f7f687")
-		(property "Reference" "#PWR0927"
+		(property "Reference" "#PWR0924"
 			(at 101.6 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -11652,7 +11602,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0927")
+					(reference "#PWR0924")
 					(unit 1)
 				)
 			)
@@ -11671,7 +11621,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df66a924-685d-47e9-893a-d5b00e5d88f6")
-		(property "Reference" "#PWR0929"
+		(property "Reference" "#PWR0930"
 			(at 243.84 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -11732,7 +11682,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0929")
+					(reference "#PWR0930")
 					(unit 1)
 				)
 			)
@@ -11749,7 +11699,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dfa2f8e2-331c-457d-9387-cf14ee073995")
-		(property "Reference" "R907"
+		(property "Reference" "R904"
 			(at 44.958 74.168 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11835,7 +11785,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "R907")
+					(reference "R904")
 					(unit 1)
 				)
 			)
@@ -11926,109 +11876,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 229.87 114.3 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e0a77ca0-7f8f-4fb6-b24a-a369d83e505a")
-		(property "Reference" "C903"
-			(at 230.378 112.522 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2.2uF"
-			(at 230.632 116.078 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 229.87 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 229.87 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 229.87 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "GCM21BR71C225KA64L"
-			(at 229.87 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 229.87 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "d321931d-ef75-4a89-bae3-bc38dfe313bf")
-		)
-		(pin "1"
-			(uuid "7f38843b-f006-4384-8a14-420232c5462d")
-		)
-		(instances
-			(project "FeroFlyF405"
-				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "C903")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 27.94 139.7 0)
 		(unit 1)
@@ -12039,7 +11886,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e2a297e7-a656-4161-a768-8d5ab25125db")
-		(property "Reference" "#PWR0909"
+		(property "Reference" "#PWR0903"
 			(at 27.94 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -12099,7 +11946,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0909")
+					(reference "#PWR0903")
 					(unit 1)
 				)
 			)
@@ -12117,7 +11964,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f01a4b8c-63c5-4791-a537-3526557cb94d")
-		(property "Reference" "R901"
+		(property "Reference" "R915"
 			(at 223.774 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12203,7 +12050,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "R901")
+					(reference "R915")
 					(unit 1)
 				)
 			)
@@ -12221,7 +12068,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0f44fa2-ce99-4f37-8c0a-703524e87266")
-		(property "Reference" "#PWR0919"
+		(property "Reference" "#PWR0916"
 			(at 49.53 127 0)
 			(hide yes)
 			(show_name no)
@@ -12282,7 +12129,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "#PWR0919")
+					(reference "#PWR0916")
 					(unit 1)
 				)
 			)
@@ -12468,7 +12315,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fcadf424-c540-46b9-a65f-55e16c05a4ce")
-		(property "Reference" "R902"
+		(property "Reference" "R914"
 			(at 217.424 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12554,7 +12401,7 @@
 		(instances
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/eeef3184-c704-411c-8c4e-6f902313c1c6/58a712c6-688e-4d1b-aaf8-0857f1efdb9b"
-					(reference "R902")
+					(reference "R914")
 					(unit 1)
 				)
 			)
