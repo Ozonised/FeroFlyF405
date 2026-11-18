@@ -2032,6 +2032,10 @@
 		(uuid "ee8cb68a-d368-4fea-8a76-3da660b65d57")
 	)
 	(no_connect
+		(at 140.97 104.14)
+		(uuid "7a063dbb-7154-4c58-a098-f72bb0d9c6de")
+	)
+	(no_connect
 		(at 74.93 96.52)
 		(uuid "c8ecd849-2f79-49f4-96ab-a8171a48fc5d")
 	)
@@ -2064,16 +2068,6 @@
 			(type default)
 		)
 		(uuid "1298363a-d4e6-4657-87d0-9251f07b0e4f")
-	)
-	(wire
-		(pts
-			(xy 140.97 104.14) (xy 140.97 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "13c3af4a-1924-46fa-9a6f-3d5bfb598a5d")
 	)
 	(wire
 		(pts
@@ -2962,85 +2956,6 @@
 			(project "FeroFlyF405"
 				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
 					(reference "R602")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 140.97 105.41 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1ed31c4d-18eb-44ba-ac4e-171d09ea7508")
-		(property "Reference" "#PWR0607"
-			(at 140.97 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 140.97 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 140.97 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 140.97 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5c07c89d-f5d8-44f3-8355-5e3e9aa74337")
-		)
-		(instances
-			(project "FeroFlyF405"
-				(path "/8fea5468-8d8d-4bdb-afc0-e65b62c92669/2db1372a-2ed6-420c-af8b-d4f9c1346569/367b3cbf-5e59-446e-ac2c-a19d2fd73a05"
-					(reference "#PWR0607")
 					(unit 1)
 				)
 			)
