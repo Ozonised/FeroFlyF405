@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "FeroFlyF405")
-		(date "2026-07-22")
-		(rev "1.1")
+		(date "2026-11-18")
+		(rev "2")
 		(comment 2 "LICENSE: CERN-OHL-S-2.0")
 		(comment 3 "Github: https://github.com/Ozonised/FeroFlyF405")
 		(comment 4 "Designed by: Farhan Khan")
