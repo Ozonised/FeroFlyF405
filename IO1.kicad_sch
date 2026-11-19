@@ -5344,7 +5344,7 @@
 				)
 			)
 		)
-		(property "MPN" "CR0603-FX-3300ELF"
+		(property "MPN" "CR0603-FX-1501ELF"
 			(at 205.74 151.13 90)
 			(hide yes)
 			(show_name no)
@@ -6696,7 +6696,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x02_MountingPin"
+		(property "Value" "DF13A-2P-1.25H(51)"
 			(at 224.282 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6730,6 +6730,28 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 231.14 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "DF13A-2P-1.25H(51)"
+			(at 231.14 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Hirose Electric Co Ltd"
 			(at 231.14 142.24 0)
 			(hide yes)
 			(show_name no)

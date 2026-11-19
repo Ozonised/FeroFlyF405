@@ -8090,6 +8090,17 @@
 				)
 			)
 		)
+		(property "MPN" "MEM2061-01-188-00-A_REVA"
+			(at 234.95 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "12"
 			(uuid "f5a88675-4d6c-4444-b8b3-afbcf625bc88")
 		)
@@ -9355,7 +9366,7 @@
 				)
 			)
 		)
-		(property "MPN" "CR0603-FX-3300ELF"
+		(property "MPN" "CR0603-FX-1501ELF"
 			(at 116.84 162.56 90)
 			(hide yes)
 			(show_name no)

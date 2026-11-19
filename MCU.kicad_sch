@@ -7431,7 +7431,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CR0603-FX-1501ELF"
 			(at 217.17 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -7442,7 +7442,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Bourns"
 			(at 217.17 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -8315,7 +8315,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CR0603-FX-1501ELF"
 			(at 209.55 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -8326,7 +8326,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Bourns"
 			(at 209.55 125.73 0)
 			(hide yes)
 			(show_name no)
